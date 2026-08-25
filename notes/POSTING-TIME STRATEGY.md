@@ -11,7 +11,7 @@
 
 # 📊 POSTING-TIME STRATEGY
 ### Optimal Publishing Windows for Technical Content on LinkedIn & Facebook
-> *Calibrated for BST (UTC+6, Bangladesh Standard Time) audiences — cybersecurity, CSE, and developer communities.*
+> *Calibrated for BST (UTC+6, Bangladesh Standard Time) audiences - cybersecurity, CSE, and developer communities.*
 
 ---
 
@@ -31,9 +31,9 @@ If you only have 30 seconds:
 This research note is designed for **CSE students and cybersecurity practitioners** who create technical content and want to maximize reach on LinkedIn and the AIUB Cybersecurity & Programming Society Facebook Group.
 
 **Use it as:**
-- A **baseline content calendar** — adopt the recommended slots as your default starting point
-- A **testing framework** — compare your actual post analytics against these benchmarks
-- A **reference for platform context** — understand *why* these times work, not just *when*
+- A **baseline content calendar** - adopt the recommended slots as your default starting point
+- A **testing framework** - compare your actual post analytics against these benchmarks
+- A **reference for platform context** - understand *why* these times work, not just *when*
 
 **Do not use it as:**
 - A guarantee of virality or trending (see Section 9)
@@ -44,10 +44,10 @@ This research note is designed for **CSE students and cybersecurity practitioner
 ## 📋 Table of Contents
 
 1. [Executive Recommendation](#1-executive-recommendation)
-2. [LinkedIn — Recommended Posting Times](#2-linkedin--recommended-posting-times)
+2. [LinkedIn - Recommended Posting Times](#2-linkedin--recommended-posting-times)
 3. [Best LinkedIn Morning Time](#3-best-linkedin-morning-time)
 4. [LinkedIn Content-to-Time Mapping](#4-linkedin-content-to-time-mapping)
-5. [Facebook — AIUB Cybersecurity & Programming Society](#5-facebook--aiub-cybersecurity--programming-society)
+5. [Facebook - AIUB Cybersecurity & Programming Society](#5-facebook--aiub-cybersecurity--programming-society)
 6. [Final Facebook Group Schedule](#6-final-facebook-group-schedule)
 7. [Best Facebook Morning Time](#7-best-facebook-morning-time)
 8. [Final Weekly Master Schedule](#8-final-weekly-master-schedule)
@@ -76,8 +76,8 @@ After reconciling the latest 2026 platform-level data with your specific positio
 
 | Platform           |    **#1 Recommended Time** | Why                                                                                                                                                                      |
 | ------------------ | -------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **LinkedIn**       | 🟢 **Wednesday — 4:00 PM** | Strongest single LinkedIn slot in Buffer's 2026 analysis; Wednesday is its strongest day. ([Buffer][1])                                                                  |
-| **Facebook Group** | 🔵 **Wednesday — 7:30 PM** | Falls inside Facebook's strongest Tuesday–Wednesday 12 PM–8 PM window and suits an AIUB student/community audience's evening participation pattern. ([Sprout Social][2]) |
+| **LinkedIn**       | 🟢 **Wednesday - 4:00 PM** | Strongest single LinkedIn slot in Buffer's 2026 analysis; Wednesday is its strongest day. ([Buffer][1])                                                                  |
+| **Facebook Group** | 🔵 **Wednesday - 7:30 PM** | Falls inside Facebook's strongest Tuesday–Wednesday 12 PM–8 PM window and suits an AIUB student/community audience's evening participation pattern. ([Sprout Social][2]) |
 
 ### The two times to remember
 
@@ -89,7 +89,7 @@ These should be treated as your **primary “hero-post” slots**.
 
 ---
 
-# 2. LinkedIn — Recommended Posting Times
+# 2. LinkedIn - Recommended Posting Times
 
 There is an important 2026 development here.
 
@@ -97,7 +97,7 @@ Buffer's July 2026 analysis of **more than 4.8 million LinkedIn posts** found a 
 
 Sprout Social's March 2026 analysis of **nearly 2 billion engagements across 307,000 profiles** reaches a complementary conclusion: Tuesday, Wednesday and Thursday have the most consistent engagement, with Tuesday 11 AM–5 PM, Wednesday 11 AM–4 PM and Thursday 1–5 PM particularly strong. ([Sprout Social][3])
 
-### Final LinkedIn schedule — Bangladesh time
+### Final LinkedIn schedule - Bangladesh time
 
 | Priority       | Day           |                   Time | Recommended use                                                                  |
 | -------------- | ------------- | ---------------------: | -------------------------------------------------------------------------------- |
@@ -124,13 +124,13 @@ However, Sprout's 2026 data identifies a strong Tuesday morning-to-afternoon win
 
 Therefore:
 
-> **Best LinkedIn morning/late-morning slot: Tuesday — 11:00 AM**
+> **Best LinkedIn morning/late-morning slot: Tuesday - 11:00 AM**
 
 Secondary:
 
-> **Wednesday — 11:00 AM**
+> **Wednesday - 11:00 AM**
 
-> **Thursday — 11:00 AM**
+> **Thursday - 11:00 AM**
 
 Use these for **lighter educational content, quick technical observations, resources, short security tips or discussion starters**, not your highest-value project announcement.
 
@@ -161,7 +161,7 @@ For your profile, your strongest material should generally be concentrated on **
 
 ---
 
-# 5. Facebook — AIUB Cybersecurity & Programming Society
+# 5. Facebook - AIUB Cybersecurity & Programming Society
 
 The Facebook recommendation requires more caution than LinkedIn because **generic Facebook data is not the same thing as data from your exact AIUB group**.
 
@@ -197,7 +197,7 @@ Best for:
 
 Therefore, the final primary slot is:
 
-> **Wednesday — 7:30 PM BST**
+> **Wednesday - 7:30 PM BST**
 
 It is inside Facebook's documented Tuesday–Wednesday peak window and is particularly suitable for deeper community-oriented content. ([Sprout Social][2])
 
@@ -223,11 +223,11 @@ Morning should **not** be your primary strategy for the Facebook group.
 
 For an occasional morning post, I would use:
 
-> **Wednesday — 9:00 AM**
+> **Wednesday - 9:00 AM**
 
 Secondary:
 
-> **Tuesday — 9:00 AM**
+> **Tuesday - 9:00 AM**
 
 But these should be reserved for **short, lightweight posts**, such as:
 
@@ -343,30 +343,30 @@ Use a deliberate hierarchy:
 ### LinkedIn
 
 **Hero post:**
-🟢 **Wednesday — 4:00 PM**
+🟢 **Wednesday - 4:00 PM**
 
 **Secondary:**
-🟢 Thursday — 5:00 PM
+🟢 Thursday - 5:00 PM
 
 **Open-source / achievement:**
-🟢 Friday — 3:00 PM
+🟢 Friday - 3:00 PM
 
 **Morning experiment:**
-🟡 Tuesday — 11:00 AM
+🟡 Tuesday - 11:00 AM
 
 ### Facebook Group
 
 **Hero community post:**
-🔵 **Wednesday — 7:30 PM**
+🔵 **Wednesday - 7:30 PM**
 
 **Interactive post:**
-🔵 Tuesday — 1:00 PM
+🔵 Tuesday - 1:00 PM
 
 **Educational/resource post:**
-🔵 Thursday — 1:00 PM
+🔵 Thursday - 1:00 PM
 
 **Evening secondary:**
-🔵 Friday — 7:00 PM
+🔵 Friday - 7:00 PM
 
 ---
 
@@ -404,16 +404,16 @@ For your DOCX, these are the times I would highlight visually:
 
 ## 🟢 LINKEDIN
 
-### **WEDNESDAY — 4:00 PM BST**
+### **WEDNESDAY - 4:00 PM BST**
 
 **Primary / Best Overall**
 
 Secondary:
 
-**Thursday — 5:00 PM**
-**Friday — 3:00 PM**
-**Friday — 4:00 PM**
-**Tuesday — 11:00 AM** for morning content
+**Thursday - 5:00 PM**
+**Friday - 3:00 PM**
+**Friday - 4:00 PM**
+**Tuesday - 11:00 AM** for morning content
 
 Buffer's 2026 dataset strongly supports the Wednesday 4 PM selection. ([Buffer][1])
 
@@ -421,16 +421,16 @@ Buffer's 2026 dataset strongly supports the Wednesday 4 PM selection. ([Buffer][
 
 ## 🔵 FACEBOOK CYBERSECURITY COMMUNITY GROUP
 
-### **WEDNESDAY — 7:30 PM BST**
+### **WEDNESDAY - 7:30 PM BST**
 
 **Primary / Best for Your Community**
 
 Secondary:
 
-**Tuesday — 1:00 PM**
-**Tuesday — 7:00 PM**
-**Thursday — 1:00 PM**
-**Friday — 7:00 PM**
+**Tuesday - 1:00 PM**
+**Tuesday - 7:00 PM**
+**Thursday - 1:00 PM**
+**Friday - 7:00 PM**
 
 This places your main Facebook content inside the current Tuesday–Wednesday 12 PM–8 PM Facebook engagement window while giving a student-heavy technology community an evening-focused slot. ([Sprout Social][2])
 
