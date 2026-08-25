@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1200" />
+  <title>Social Preview — research / SagarBiswas-MultiHAT</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Inter:wght@400;700;900&display=swap" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      width: 1200px;
+      height: 600px;
+      background: #0d1117;
+      overflow: hidden;
+      font-family: 'Inter', sans-serif;
+      position: relative;
+    }
+
+    /* Matrix rain background */
+    canvas {
+      position: absolute;
+      top: 0; left: 0;
+      opacity: 0.04;
+      z-index: 0;
+    }
+
+    /* Subtle grid overlay */
+    .grid {
+      position: absolute;
+      inset: 0;
+      background-image:
+        linear-gradient(rgba(0, 255, 65, 0.03) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(0, 255, 65, 0.03) 1px, transparent 1px);
+      background-size: 40px 40px;
+      z-index: 1;
+    }
+
+    /* Top accent line */
+    .top-bar {
+      position: absolute;
+      top: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent 0%, #00ff41 30%, #39d353 60%, transparent 100%);
+      z-index: 10;
+    }
+
+    /* Bottom accent line */
+    .bottom-bar {
+      position: absolute;
+      bottom: 0; left: 0; right: 0;
+      height: 3px;
+      background: linear-gradient(90deg, transparent 0%, #00ff41 30%, #39d353 60%, transparent 100%);
+      z-index: 10;
+    }
+
+    /* Main content */
+    .content {
+      position: relative;
+      z-index: 5;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      height: 100%;
+      padding: 0 90px;
+    }
+
+    /* Eyebrow */
+    .eyebrow {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 13px;
+      color: #39d353;
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+      margin-bottom: 18px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .eyebrow::before {
+      content: '';
+      display: inline-block;
+      width: 6px; height: 6px;
+      background: #39d353;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #39d353;
+      animation: pulse 2s infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0.3; }
+    }
+
+    /* Terminal prompt + title */
+    .title-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 10px;
+    }
+    .prompt {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 56px;
+      font-weight: 700;
+      color: #39d353;
+      text-shadow: 0 0 20px rgba(57, 211, 83, 0.6);
+      line-height: 1;
+    }
+    .title {
+      font-family: 'Inter', sans-serif;
+      font-size: 72px;
+      font-weight: 900;
+      color: #ffffff;
+      letter-spacing: -2px;
+      line-height: 1;
+    }
+
+    /* Handle */
+    .handle {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 18px;
+      color: #484f58;
+      margin-bottom: 28px;
+      padding-left: 70px;
+    }
+    .handle span { color: #6e7681; }
+
+    /* Tagline */
+    .tagline {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 20px;
+      color: #a8ff78;
+      margin-bottom: 42px;
+      padding-left: 4px;
+      letter-spacing: 0.01em;
+      opacity: 0.85;
+    }
+
+    /* Tag pills */
+    .tags {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      padding-left: 4px;
+    }
+    .tag {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 12px;
+      color: #39d353;
+      border: 1px solid rgba(57, 211, 83, 0.3);
+      background: rgba(57, 211, 83, 0.05);
+      padding: 4px 12px;
+      border-radius: 3px;
+      letter-spacing: 0.05em;
+    }
+
+    /* Right decoration */
+    .deco {
+      position: absolute;
+      right: 80px;
+      top: 50%;
+      transform: translateY(-50%);
+      z-index: 5;
+      text-align: right;
+    }
+    .deco-icon {
+      font-size: 90px;
+      opacity: 0.07;
+      line-height: 1;
+      user-select: none;
+    }
+    .deco-lines {
+      font-family: 'JetBrains Mono', monospace;
+      font-size: 11px;
+      color: #21262d;
+      line-height: 1.8;
+      text-align: left;
+      margin-top: 12px;
+    }
+    .deco-lines .hl { color: #30363d; }
+  </style>
+</head>
+<body>
+
+  <canvas id="matrix"></canvas>
+  <div class="grid"></div>
+  <div class="top-bar"></div>
+  <div class="bottom-bar"></div>
+
+  <div class="content">
+    <div class="eyebrow">GitHub Repository — Open Research</div>
+    <div class="title-row">
+      <span class="prompt">&gt;_</span>
+      <span class="title">research</span>
+    </div>
+    <div class="handle"><span>@</span>SagarBiswas-MultiHAT</div>
+    <div class="tagline">Data-backed cybersecurity &amp; community research notes</div>
+    <div class="tags">
+      <span class="tag">cybersecurity</span>
+      <span class="tag">content-strategy</span>
+      <span class="tag">web-security</span>
+      <span class="tag">BST / UTC+6</span>
+      <span class="tag">open-source</span>
+    </div>
+  </div>
+
+  <div class="deco">
+    <div class="deco-icon">📡</div>
+    <div class="deco-lines">
+      <div class="hl">curiosity is my payload</div>
+      <div>delivered over POST</div>
+    </div>
+  </div>
+
+  <script>
+    // Minimal matrix rain
+    const canvas = document.getElementById('matrix');
+    const ctx = canvas.getContext('2d');
+    canvas.width = 1200;
+    canvas.height = 600;
+
+    const chars = '01アイウエオカキクケコサシスセソタチツテトナニヌネノ';
+    const cols = Math.floor(1200 / 16);
+    const drops = Array(cols).fill(1);
+
+    function draw() {
+      ctx.fillStyle = 'rgba(13,17,23,0.05)';
+      ctx.fillRect(0, 0, 1200, 600);
+      ctx.fillStyle = '#00ff41';
+      ctx.font = '14px JetBrains Mono, monospace';
+      drops.forEach((y, i) => {
+        const char = chars[Math.floor(Math.random() * chars.length)];
+        ctx.fillText(char, i * 16, y * 16);
+        if (y * 16 > 600 && Math.random() > 0.975) drops[i] = 0;
+        drops[i]++;
+      });
+    }
+    setInterval(draw, 60);
+  </script>
+</body>
+</html>
