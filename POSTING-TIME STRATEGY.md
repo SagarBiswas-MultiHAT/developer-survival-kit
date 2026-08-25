@@ -1,3 +1,65 @@
+<!--
+  Research Note: POSTING-TIME STRATEGY
+  Repository:    https://github.com/SagarBiswas-MultiHAT/research
+  Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
+  Version:       1.0
+  Last Updated:  2026-08-25
+  Status:        Final
+  Audience:      CSE students, cybersecurity practitioners, developer content creators (BST / UTC+6)
+  Data Basis:    Buffer (4.8M+ LinkedIn posts, July 2026) · Sprout Social (2B engagements / 307K profiles, March 2026) · Facebook Group Insights documentation
+-->
+
+# 📊 POSTING-TIME STRATEGY
+### Optimal Publishing Windows for Technical Content on LinkedIn & Facebook
+> *Calibrated for BST (UTC+6, Bangladesh Standard Time) audiences — cybersecurity, CSE, and developer communities.*
+
+---
+
+## ⚡ TL;DR (Read This First)
+
+If you only have 30 seconds:
+
+- 🟢 **LinkedIn best slot → Wednesday, 4:00 PM BST** (strongest single slot across 4.8M+ posts)
+- 🔵 **Facebook Group best slot → Wednesday, 7:30 PM BST** (peak of the Tue–Wed 12PM–8PM window; suits student/community evening patterns)
+- ⚠️ **Timing is the last optimization layer.** Content relevance → hook quality → high-value substance → posting time → immediate engagement → shares. In that order.
+- 📊 Your own platform analytics (LinkedIn Analytics, Facebook Group Insights) should eventually override any generic benchmark.
+
+---
+
+## 🧭 How to Use This Document
+
+This research note is designed for **CSE students and cybersecurity practitioners** who create technical content and want to maximize reach on LinkedIn and the AIUB Cybersecurity & Programming Society Facebook Group.
+
+**Use it as:**
+- A **baseline content calendar** — adopt the recommended slots as your default starting point
+- A **testing framework** — compare your actual post analytics against these benchmarks
+- A **reference for platform context** — understand *why* these times work, not just *when*
+
+**Do not use it as:**
+- A guarantee of virality or trending (see Section 9)
+- A replacement for your own audience data once you have enough of it (see Section 10)
+
+---
+
+## 📋 Table of Contents
+
+1. [Executive Recommendation](#1-executive-recommendation)
+2. [LinkedIn — Recommended Posting Times](#2-linkedin--recommended-posting-times)
+3. [Best LinkedIn Morning Time](#3-best-linkedin-morning-time)
+4. [LinkedIn Content-to-Time Mapping](#4-linkedin-content-to-time-mapping)
+5. [Facebook — AIUB Cybersecurity & Programming Society](#5-facebook--aiub-cybersecurity--programming-society)
+6. [Final Facebook Group Schedule](#6-final-facebook-group-schedule)
+7. [Best Facebook Morning Time](#7-best-facebook-morning-time)
+8. [Final Weekly Master Schedule](#8-final-weekly-master-schedule)
+9. ["Trending" Requires More Than Timing](#9-trending-requires-more-than-timing)
+10. [Facebook Group: Your Own Data Has Final Authority](#10-facebook-group-your-own-data-has-final-authority)
+11. [The Exact Strategy I Recommend for You](#11-the-exact-strategy-i-recommend-for-you)
+12. [Recommended Posting Frequency](#12-recommended-posting-frequency)
+13. [Final "Golden Hours"](#13-final-golden-hours)
+14. [Final Verdict](#14-final-verdict)
+
+---
+
 # FINAL POSTING-TIME STRATEGY
 
 ## LinkedIn + AIUB Cybersecurity & Programming Society Facebook Group
