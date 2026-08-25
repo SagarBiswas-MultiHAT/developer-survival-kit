@@ -330,3 +330,30 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 *Build the version of yourself who ships — then keep going.*
 
+---
+
+## 💡 How to Customize This Routine
+
+To generate a version of this routine tailored to your own subjects, timeline, or constraints — attach this file to Claude (or any capable AI assistant) and send the prompt below. Adjust the subject list and goals to match your situation before sending.
+
+**Prompt:**
+```
+I want you to improve and upgrade the routine.
+
+I want to maintain a consistent sleep schedule of 7 hours daily, from 12:00 AM to 7:00 AM.
+For the next two months, I have no classes or major commitments, so I want to use this time productively. My goal is to get ahead by covering the subjects of my upcoming semester in advance. These include:
+
+* Complex Variables, Laplace & Z-Transformation (01037)
+* Computer Networks (00535)
+* Operating Systems (00804)
+* Computer Organization and Architecture (00567)
+* Electronic Devices (01866)
+
+Alongside my academic preparation, I also want to focus on building strong practical skills. Specifically, I plan to:
+
+* Learn and practice Cybersecurity (both defensive and offensive aspects)
+* Develop full-stack web projects to showcase my work
+* Make effective use of my GitHub Student Developer Pack
+
+I also want to dedicate enough time to thinking, planning, and building meaningful projects, rather than just rushing through tasks.
+```
