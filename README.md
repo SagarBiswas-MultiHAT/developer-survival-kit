@@ -15,7 +15,7 @@ A living collection of technical research, analyses, and strategic frameworks on
 | File | Type | Description |
 |------|------|-------------|
 | [POSTING-TIME STRATEGY.md](./notes/POSTING-TIME%20STRATEGY.md) | 🔬 Research | Data-backed optimal posting times for LinkedIn & Facebook - sourced from **4.8M+ LinkedIn posts** & **2B Facebook engagements** (2026 data), tailored for BST audiences and cybersecurity/CSE communities |
-| [MY PURPOSE.md](./notes/MY%20PURPOSE.md) | 🗺️ Roadmap | Academic plan & post-graduation career roadmap - Software Engineering major, Cybersecurity, AI Engineering, 5-phase self-study plan targeting Senior Engineer by 2030 |
+| [MY-ROADMAP.md](./notes/MY-ROADMAP.md) | 🗺️ Roadmap | Academic plan & post-graduation career roadmap - Software Engineering major, Cybersecurity, AI Engineering, 5-phase self-study plan targeting Senior Engineer by 2030 |
 | [Routine_Study_v3.md](./notes/Routine_Study_v3.md) | 📅 System | PRISM Study Routine v3 - 2-month advance semester preparation plan covering 5 subjects daily, cybersecurity lab progression, full-stack build targets, and deep thinking protocols |
 
 > 📌 More research notes are added on a regular cadence under `notes/`. Watch/Star the repo to get notified.
@@ -70,7 +70,7 @@ Data from:
 
 ---
 
-### [🗺️ MY PURPOSE.md](./notes/MY%20PURPOSE.md)
+### [🗺️ MY-ROADMAP.md](./notes/MY-ROADMAP.md)
 **Academic plan & post-graduation roadmap - AIUB CSE → Senior Engineer by 2030**
 
 A living career strategy document covering:

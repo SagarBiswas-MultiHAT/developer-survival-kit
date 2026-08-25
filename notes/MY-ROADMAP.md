@@ -1,5 +1,5 @@
 <!--
-  Research Note: MY PURPOSE
+  Research Note: MY-ROADMAP
   Repository:    https://github.com/SagarBiswas-MultiHAT/research
   Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
   Version:       1.0
