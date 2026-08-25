@@ -329,3 +329,4 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 **Two months. Five subjects. Two skills. One platform.**
 
 *Build the version of yourself who ships — then keep going.*
+
