@@ -1,6 +1,10 @@
 # 📡 research - by Sagar Biswas
 
+<div align="right">
+
 > *Curiosity is my payload - delivered over POST.*
+
+</div>
 
 A living collection of technical research, analyses, and strategic frameworks on **cybersecurity**, **web security**, **developer community building**, and **open-source growth** - written from the perspective of a CSE student and security practitioner based in Bangladesh (BST, UTC+6).
 
