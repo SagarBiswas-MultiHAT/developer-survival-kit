@@ -39,6 +39,24 @@ This isn't a polished corporate strategy. It's my honest plan - what I'm studyin
 
 ---
 
+## ⚡ TL;DR (Read This First)
+
+If you only have 60 seconds:
+
+- 🎓 **Who:** Sagar Biswas - CSE @ AIUB, Bangladesh. Graduating 2027. 90+ repos built across full-stack, security, and AI.
+- 🎯 **Goal by 2030:** Senior Software Engineer / Backend Engineer - cloud-native, AI-aware, attacker-minded.
+- 📚 **Academic focus:** Software Engineering major (Architecture, Advanced Web, Software Quality) + Machine Learning and Advanced Database as minor courses.
+- 🗺️ **Post-graduation plan (5 phases in order):**
+  1. Cloud & Infrastructure (AWS, Docker, Kubernetes, Terraform)
+  2. Networking (CCNA)
+  3. AI Engineering (LLMs, RAG, vector databases, AI agents)
+  4. Security Engineering (AppSec, threat modeling, formal certs)
+  5. Advanced Engineering (distributed systems, event-driven architecture, observability)
+- 🔐 **Security lens:** Offensive mindset, defensive practice - build like an engineer, think like an attacker.
+- 💡 **Guiding principle:** Build things that work. Learn by building. Security is not an afterthought.
+
+---
+
 ## Table of Contents
 
 - [What This Document Is](#what-this-document-is)
