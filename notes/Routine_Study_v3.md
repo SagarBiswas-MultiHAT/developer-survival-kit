@@ -23,12 +23,12 @@
 
 If you only have 60 seconds:
 
-- 🌙 **Sleep:** 12:00 AM – 7:00 AM (7 hours, non-negotiable — do not trade sleep for study)
+- 🌙 **Sleep:** 12:00 AM – 7:00 AM (7 hours, non-negotiable - do not trade sleep for study)
 - ⏱️ **Focused work:** 9+ hours/day in structured 60-minute blocks (50 min focus + 10 min wrap note)
-- 📚 **Academic:** 5 subjects in cyclic daily rotation — each receives ~40+ hours over 8 weeks
-- 🔐 **Cybersecurity:** 2 daily blocks — structured learning at 3:40 PM + hands-on lab at 4:50 PM
-- 💻 **Full-Stack:** 1 daily build block at 5:55 PM — produce one shippable output per session
-- 🧠 **Deep Thinking:** 7:30–8:30 PM — no coding, only planning, architecture, and system design
+- 📚 **Academic:** 5 subjects in cyclic daily rotation - each receives ~40+ hours over 8 weeks
+- 🔐 **Cybersecurity:** 2 daily blocks - structured learning at 3:40 PM + hands-on lab at 4:50 PM
+- 💻 **Full-Stack:** 1 daily build block at 5:55 PM - produce one shippable output per session
+- 🧠 **Deep Thinking:** 7:30–8:30 PM - no coding, only planning, architecture, and system design
 - 📵 **Rules:** One task per block. Phone out of reach. Daily journal before 11:00 PM. No caffeine after 3:00 PM.
 - 🧰 **System:** Microtask format → 60-min block protocol → wrap note → next-day planning at 10:30 PM
 
