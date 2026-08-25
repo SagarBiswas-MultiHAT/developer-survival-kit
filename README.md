@@ -67,7 +67,7 @@ Data from:
 ---
 
 ### [🗺️ MY PURPOSE.md](./notes/MY%20PURPOSE.md)
-**Academic plan & post-graduation roadmap — AIUB CSE → Senior Engineer by 2030**
+**Academic plan & post-graduation roadmap - AIUB CSE → Senior Engineer by 2030**
 
 A living career strategy document covering:
 - Current skill baseline (90+ repos, full-stack + security + AI experience)
@@ -78,7 +78,7 @@ A living career strategy document covering:
 ---
 
 ### [📅 Routine_Study_v3.md](./notes/Routine_Study_v3.md)
-**PRISM Study Routine v3 — 2-month advance semester preparation system**
+**PRISM Study Routine v3 - 2-month advance semester preparation system**
 
 A complete, battle-tested daily study system for CSE students covering:
 - Hour-by-hour 9+ hour focused work schedule with sleep anchored at 12AM–7AM
