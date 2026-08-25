@@ -17,6 +17,46 @@
 
 5 subjects covered daily via cyclic rotation \| Cybersecurity + Full-Stack + Deep Thinking built in
 
+---
+
+## 📋 Table of Contents
+
+1. [Daily Schedule](#1-daily-schedule)
+2. [Why This Ordering Works](#2-why-this-ordering-works)
+3. [Non-Negotiable Rules](#3-non-negotiable-rules)
+4. [Academic Track - 5-Subject Semester Advance](#4-academic-track---5-subject-semester-advance)
+   - [Subject Reference](#subject-reference)
+   - [Weekly Rotation Table](#weekly-rotation-table)
+5. [Cybersecurity Track - 2-Month Progression](#5-cybersecurity-track---2-month-progression)
+   - [Daily Cybersecurity Block Protocol](#daily-cybersecurity-block-protocol)
+6. [Full-Stack Development & GitHub Student Developer Pack](#6-full-stack-development--github-student-developer-pack)
+   - [GitHub Student Developer Pack - Priority Tools](#github-student-developer-pack---priority-tools)
+   - [2-Month Build Targets](#2-month-build-targets)
+7. [Deep Project Thinking Hour (7:30 - 8:30 PM)](#7-deep-project-thinking-hour-730--830-pm)
+   - [What to Do Each Session](#what-to-do-each-session)
+8. [Microtask System](#8-microtask-system)
+   - [What Is a Microtask?](#what-is-a-microtask)
+   - [Microtask Format](#microtask-format)
+   - [How to Select Tomorrow's Microtasks (at 10:30 PM)](#how-to-select-tomorrows-microtasks-at-1030-pm)
+9. [60-Minute Block Protocol](#9-60-minute-block-protocol)
+10. [Focus Setup](#10-focus-setup)
+11. [Vocab Card System](#11-vocab-card-system)
+    - [Card Template](#card-template)
+    - [Sample Cards](#sample-cards)
+12. [Sunday Weekly Planning Protocol](#12-sunday-weekly-planning-protocol)
+13. [Craving & Setback Playbook](#13-craving--setback-playbook)
+    - [When a Craving Hits](#when-a-craving-hits)
+    - [If You Slip Once](#if-you-slip-once)
+    - [If a Bad Day Happens](#if-a-bad-day-happens)
+14. [Tools & Micro-Setup (Do Tonight)](#14-tools--micro-setup-do-tonight)
+15. [GitHub & LinkedIn Micro-Templates](#15-github--linkedin-micro-templates)
+    - [Git Commit Message Format](#git-commit-message-format)
+    - [LinkedIn Post Template](#linkedin-post-template)
+16. [Sleep Hygiene & Wind-down Protocol](#16-sleep-hygiene--wind-down-protocol)
+- [How to Customize This Routine](#-how-to-customize-this-routine)
+
+---
+
 # 1. Daily Schedule
 
 | **TIME**            | **BLOCK**                                  | **ACTIVITY & NOTES**                                                                                          |
