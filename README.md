@@ -2,7 +2,7 @@
 
 <div align="right">
 
-> *Curiosity is my payload - delivered over POST.*
+*Curiosity is my payload - delivered over POST.*
 
 </div>
 
