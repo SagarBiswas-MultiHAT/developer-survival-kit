@@ -1,3 +1,14 @@
+<!--
+  Research Note: MY PURPOSE
+  Repository:    https://github.com/SagarBiswas-MultiHAT/research
+  Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
+  Version:       1.0
+  Last Updated:  2026-08-26
+  Status:        Living Document
+  Audience:      Recruiters, fellow CSE students, open-source community
+  Category:      Career roadmap / personal strategy
+-->
+
 # My Purpose - Academic Plan & Post-Graduation Roadmap
 
 > _"Build emerging and novel projects with secure coding. Secure the digital world through both defense and offense."_
@@ -7,7 +18,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Living_Document-success?style=for-the-badge" alt="Status: Living Document" />
   &nbsp;
-  <img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Purpose?style=for-the-badge" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Last_Updated-August_2026-informational?style=for-the-badge" alt="Last Updated: August 2026" />
   &nbsp;
   <img src="https://img.shields.io/badge/Target-Senior_Engineer_2030-blue?style=for-the-badge" alt="Target: 2030" />
   &nbsp;

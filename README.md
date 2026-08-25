@@ -11,8 +11,20 @@ A living collection of technical research, analyses, and strategic frameworks on
 | File | Type | Description |
 |------|------|-------------|
 | [POSTING-TIME STRATEGY.md](./notes/POSTING-TIME%20STRATEGY.md) | 🔬 Research | Data-backed optimal posting times for LinkedIn & Facebook - sourced from **4.8M+ LinkedIn posts** & **2B Facebook engagements** (2026 data), tailored for BST audiences and cybersecurity/CSE communities |
+| [MY PURPOSE.md](./notes/MY%20PURPOSE.md) | 🗺️ Roadmap | Academic plan & post-graduation career roadmap - Software Engineering major, Cybersecurity, AI Engineering, 5-phase self-study plan targeting Senior Engineer by 2030 |
+| [Routine_Study_v3.md](./notes/Routine_Study_v3.md) | 📅 System | PRISM Study Routine v3 - 2-month advance semester preparation plan covering 5 subjects daily, cybersecurity lab progression, full-stack build targets, and deep thinking protocols |
 
 > 📌 More research notes are added on a regular cadence under `notes/`. Watch/Star the repo to get notified.
+
+---
+
+## 🔒 Personal
+
+Private-context documents not intended as shareable research. Stored in `personal/` to keep them separate from public notes.
+
+| File | Description |
+|------|-------------|
+| [Routine_Eating.md](./personal/Routine_Eating.md) | দৈনিক খাবারের রুটিন - personal daily nutrition plan (Bengali) |
 
 ---
 
@@ -51,6 +63,28 @@ Data from:
 - 🟢 **LinkedIn best slot:** Wednesday, 4:00 PM BST
 - 🔵 **Facebook group best slot:** Wednesday, 7:30 PM BST
 - Timing is the *last* optimization layer - content relevance, hook quality, and engagement velocity matter more
+
+---
+
+### [🗺️ MY PURPOSE.md](./notes/MY%20PURPOSE.md)
+**Academic plan & post-graduation roadmap — AIUB CSE → Senior Engineer by 2030**
+
+A living career strategy document covering:
+- Current skill baseline (90+ repos, full-stack + security + AI experience)
+- Academic course choices with reasoning (Software Architecture, Advanced DB, Machine Learning)
+- 5-phase post-graduation self-study plan: Cloud → Networking (CCNA) → AI Engineering → Security Engineering → Advanced Engineering
+- Target profile by 2030: Senior Backend Engineer with cloud, AI, and security depth
+
+---
+
+### [📅 Routine_Study_v3.md](./notes/Routine_Study_v3.md)
+**PRISM Study Routine v3 — 2-month advance semester preparation system**
+
+A complete, battle-tested daily study system for CSE students covering:
+- Hour-by-hour 9+ hour focused work schedule with sleep anchored at 12AM–7AM
+- 5-subject cyclic rotation (Complex Variables, Computer Networks, OS, COA, Electronic Devices)
+- 2-month cybersecurity progression: Web Security → Active Exploitation → Network Recon → Bug Bounty
+- Full-Stack build targets, microtask framework, 60-minute block protocol, craving/setback playbook
 
 ---
 
