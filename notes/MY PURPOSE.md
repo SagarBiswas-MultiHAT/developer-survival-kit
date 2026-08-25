@@ -4,14 +4,19 @@
 
 <br>
 
-<div align="right">
+<div align="center">
   <img src="https://img.shields.io/badge/Status-Living_Document-success?style=for-the-badge" alt="Status: Living Document" />
+  &nbsp;
   <img src="https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/Purpose?style=for-the-badge" alt="Last Updated" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Target-Senior_Engineer_2030-blue?style=for-the-badge" alt="Target: 2030" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Graduation-AIUB_2027-0052cc?style=for-the-badge" alt="Graduation" />
   <br />
   <img src="https://img.shields.io/badge/Focus-Software_Engineering-blueviolet?style=for-the-badge" alt="Focus: SWE" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Focus: Security" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Focus-AI_Engineering-ff69b4?style=for-the-badge" alt="Focus: AI" />
 </div>
 
