@@ -6,11 +6,34 @@
 
 </div>
 
+<div align="center">
+
+[![Status: Active](https://img.shields.io/badge/Status-Active%20%2F%20Living%20Vault-00C853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SagarBiswas-MultiHAT/research)
+&nbsp;
+[![Version: 3.0](https://img.shields.io/badge/PRISM%20Version-v3.0-6C5CE7?style=for-the-badge&logo=blueprint&logoColor=white)](./notes/Routine_Study_v3.md)
+&nbsp;
+[![Roadmap: 2026-2030](https://img.shields.io/badge/Roadmap-2026--2030-FF6B6B?style=for-the-badge&logo=target&logoColor=white)](./notes/MY-ROADMAP.md)
+&nbsp;
+[![Data Basis: 4.8M+ Posts](https://img.shields.io/badge/Analytics-4.8M%2B%20Posts%20Analyzed-0984E3?style=for-the-badge&logo=google-analytics&logoColor=white)](./notes/POSTING-TIME%20STRATEGY.md)
+&nbsp;
+[![License: MIT](https://img.shields.io/badge/License-MIT-FDCB6E?style=flat-square&logo=opensourceinitiative&logoColor=black)](LICENSE)
+&nbsp;
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github)](./CONTRIBUTING.md)
+&nbsp;
+[![Region: BST / UTC+6](https://img.shields.io/badge/Calibrated-BST%20(UTC%2B6)-blue?style=flat-square&logo=timeanddate&logoColor=white)](./notes/POSTING-TIME%20STRATEGY.md)
+&nbsp;
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square)](https://github.com/SagarBiswas-MultiHAT/research/commits/main)
+
+</div>
+
 A living collection of technical research, analyses, and strategic frameworks on **cybersecurity**, **web security**, **developer community building**, and **open-source growth** - written from the perspective of a CSE student and security practitioner based in Bangladesh (BST, UTC+6).
 
 ---
 
 ## 📂 Contents
+
+![Research & Strategy](<photos/Research & Strategy.png>)
+
 
 | File | Type | Description |
 |------|------|-------------|
