@@ -34,6 +34,7 @@ A living collection of technical research, analyses, and strategic frameworks on
 
 ![Research & Strategy](<photos/Research & Strategy.png>)
 
+---
 
 | File | Type | Description |
 |------|------|-------------|
