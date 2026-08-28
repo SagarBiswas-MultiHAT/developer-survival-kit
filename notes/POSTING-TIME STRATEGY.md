@@ -28,7 +28,7 @@ If you only have 30 seconds:
 
 ## 🧭 How to Use This Document
 
-This research note is designed for **CSE students and cybersecurity practitioners** who create technical content and want to maximize reach on LinkedIn and the AIUB Cybersecurity & Programming Society Facebook Group.
+This research note is designed for **CSE students and cybersecurity practitioners** who create technical content and want to maximize reach on LinkedIn and the Cybersecurity & Programming Facebook Group.
 
 **Use it as:**
 - A **baseline content calendar** - adopt the recommended slots as your default starting point
@@ -44,10 +44,10 @@ This research note is designed for **CSE students and cybersecurity practitioner
 ## 📋 Table of Contents
 
 1. [Executive Recommendation](#1-executive-recommendation)
-2. [LinkedIn - Recommended Posting Times](#2-linkedin--recommended-posting-times)
+2. [LinkedIn - Recommended Posting Times](#2-linkedin-recommended-posting-times)
 3. [Best LinkedIn Morning Time](#3-best-linkedin-morning-time)
 4. [LinkedIn Content-to-Time Mapping](#4-linkedin-content-to-time-mapping)
-5. [Facebook - AIUB Cybersecurity & Programming Society](#5-facebook--aiub-cybersecurity--programming-society)
+5. [Facebook - CyberSecurity & Programming Community Group](#5-facebook---cybersecurity--programming-community-group)
 6. [Final Facebook Group Schedule](#6-final-facebook-group-schedule)
 7. [Best Facebook Morning Time](#7-best-facebook-morning-time)
 8. [Final Weekly Master Schedule](#8-final-weekly-master-schedule)
@@ -62,7 +62,7 @@ This research note is designed for **CSE students and cybersecurity practitioner
 
 # FINAL POSTING-TIME STRATEGY
 
-## LinkedIn + AIUB Cybersecurity & Programming Society Facebook Group
+## LinkedIn + CyberSecurity & Programming Community Group
 
 **Target location/time zone:** Bangladesh Standard Time (BST), **UTC+6 / Asia-Dhaka**
 **Objective:** Maximize visibility, meaningful engagement, discovery, and the probability of unusually strong distribution.
@@ -72,12 +72,12 @@ This research note is designed for **CSE students and cybersecurity practitioner
 
 ## 1. Executive Recommendation
 
-After reconciling the latest 2026 platform-level data with your specific positioning as a **CSE student, cybersecurity/web-security practitioner, developer, open-source builder and AIUB technology-community contributor**, these are the two primary slots I would use:
+After reconciling the latest 2026 platform-level data with your specific positioning as a **CSE student, cybersecurity/web-security practitioner, developer, open-source builder and CyberSecurity & Programming technology-community contributor**, these are the two primary slots I would use:
 
 | Platform           |    **#1 Recommended Time** | Why                                                                                                                                                                      |
 | ------------------ | -------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **LinkedIn**       | 🟢 **Wednesday - 4:00 PM** | Strongest single LinkedIn slot in Buffer's 2026 analysis; Wednesday is its strongest day. ([Buffer][1])                                                                  |
-| **Facebook Group** | 🔵 **Wednesday - 7:30 PM** | Falls inside Facebook's strongest Tuesday–Wednesday 12 PM–8 PM window and suits an AIUB student/community audience's evening participation pattern. ([Sprout Social][2]) |
+| **Facebook Group** | 🔵 **Wednesday - 7:30 PM** | Falls inside Facebook's strongest Tuesday–Wednesday 12 PM–8 PM window and suits an student/community audience's evening participation pattern. ([Sprout Social][2]) |
 
 ### The two times to remember
 
@@ -157,17 +157,17 @@ Use these for **lighter educational content, quick technical observations, resou
 | Technical discussion question    |       Tuesday 4:00 PM |
 | Weekly reflection                |   Friday 3:00–4:00 PM |
 
-For your profile, your strongest material should generally be concentrated on **Wednesday–Friday**, rather than spreading equally across the whole week. Buffer identifies Wednesday as the strongest overall LinkedIn day, followed by Thursday and Friday. ([Buffer][1])
+For my profile, my strongest material should generally be concentrated on **Wednesday–Friday**, rather than spreading equally across the whole week. Buffer identifies Wednesday as the strongest overall LinkedIn day, followed by Thursday and Friday. ([Buffer][1])
 
 ---
 
-# 5. Facebook - AIUB Cybersecurity & Programming Society
+# 5. Facebook - CyberSecurity & Programming Community Group
 
-The Facebook recommendation requires more caution than LinkedIn because **generic Facebook data is not the same thing as data from your exact AIUB group**.
+The Facebook recommendation requires more caution than LinkedIn because **generic Facebook data is not the same thing as data from your exact CyberSecurity & Programming Community group**.
 
 Sprout Social's 2026 Facebook research, based on nearly **2 billion engagements across approximately 307,000 profiles**, identifies **Tuesday and Wednesday from 12 PM–8 PM local time** as the strongest sustained window. Mondays and Thursdays also have strong periods, while weekends are the weakest. ([Sprout Social][2])
 
-For your AIUB technology community, I would therefore split that large window into two practical periods:
+For your CyberSecurity & Programming technology community, I would therefore split that large window into two practical periods:
 
 ### Afternoon
 
@@ -328,7 +328,7 @@ Therefore:
 
 > **Generic Facebook data → starting hypothesis**
 
-> **AIUB CyberSecurity & Programming Society's Group Insights → final authority**
+> **CyberSecurity & Programming Community's Group Insights → final authority**
 
 Once you have enough group-specific data, your own numbers should override the generic 7:30 PM recommendation if they consistently show another peak.
 
@@ -380,9 +380,9 @@ For your type of content, I would prioritize **quality and discussion over volum
 
 A practical pattern:
 
-> **Tuesday → optional/secondary**
-> **Wednesday → flagship**
-> **Friday → secondary**
+> **Tuesday → optional/secondary**;
+> **Wednesday → flagship**;
+> **Friday → secondary**;
 
 ### Facebook Group
 
@@ -390,9 +390,9 @@ A practical pattern:
 
 A practical pattern:
 
-> **Tuesday → interactive**
-> **Wednesday → flagship community post**
-> **Thursday or Friday → secondary**
+> **Tuesday → interactive**;
+> **Wednesday → flagship community post**;
+> **Thursday or Friday → secondary**;
 
 This avoids turning the profile/group presence into repetitive self-promotion.
 
@@ -400,7 +400,7 @@ This avoids turning the profile/group presence into repetitive self-promotion.
 
 # 13. Final “Golden Hours”
 
-For your DOCX, these are the times I would highlight visually:
+For better reach, these are the times I would highlight visually:
 
 ## 🟢 LINKEDIN
 
@@ -410,10 +410,10 @@ For your DOCX, these are the times I would highlight visually:
 
 Secondary:
 
-**Thursday - 5:00 PM**
-**Friday - 3:00 PM**
-**Friday - 4:00 PM**
-**Tuesday - 11:00 AM** for morning content
+**Thursday - 5:00 PM**;
+**Friday - 3:00 PM**;
+**Friday - 4:00 PM**;
+**Tuesday - 11:00 AM** for morning content;
 
 Buffer's 2026 dataset strongly supports the Wednesday 4 PM selection. ([Buffer][1])
 
@@ -427,10 +427,10 @@ Buffer's 2026 dataset strongly supports the Wednesday 4 PM selection. ([Buffer][
 
 Secondary:
 
-**Tuesday - 1:00 PM**
-**Tuesday - 7:00 PM**
-**Thursday - 1:00 PM**
-**Friday - 7:00 PM**
+**Tuesday - 1:00 PM**;
+**Tuesday - 7:00 PM**;
+**Thursday - 1:00 PM**;
+**Friday - 7:00 PM**;
 
 This places your main Facebook content inside the current Tuesday–Wednesday 12 PM–8 PM Facebook engagement window while giving a student-heavy technology community an evening-focused slot. ([Sprout Social][2])
 
@@ -441,13 +441,13 @@ This places your main Facebook content inside the current Tuesday–Wednesday 12
 | Platform                              | **Best Overall**         | **Best Morning**      | **Best Secondary** |
 | ------------------------------------- | ------------------------ | --------------------- | ------------------ |
 | **LinkedIn**                          | 🟢 **Wednesday 4:00 PM** | **Tuesday 11:00 AM**  | Thursday 5:00 PM   |
-| **AIUB Cybersecurity Facebook Group** | 🔵 **Wednesday 7:30 PM** | **Wednesday 9:00 AM** | Tuesday 1:00 PM    |
+| **CyberSecurity & Programming Facebook Group** | 🔵 **Wednesday 7:30 PM** | **Wednesday 9:00 AM** | Tuesday 1:00 PM    |
 
 ### The two times to build your content calendar around:
 
 **LinkedIn → Wednesday, 4:00 PM BST**
 
-**Facebook Cybersecurity Community Group → Wednesday, 7:30 PM BST**
+**Facebook CyberSecurity & Programming Community Group → Wednesday, 7:30 PM BST**
 
 These are the recommendations I would use as the **final baseline**, with the explicit understanding that Facebook Group Insights and your own LinkedIn analytics should eventually replace generic platform benchmarks with your actual audience data. ([Facebook][4])
 
