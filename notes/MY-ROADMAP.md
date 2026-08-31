@@ -407,7 +407,7 @@ These aren't corporate values I memorized. They're things I've learned the hard 
 | **LinkedIn**  | [sagarbiswas-multihat](https://www.linkedin.com/in/sagarbiswas-multihat/)                                          |
 | **YouTube**   | [Sagar-MultiHAT](https://www.youtube.com/@Sagar-MultiHAT)                                                          |
 | **Community** | [AIUB CyberSecurity & Programming Society](https://www.facebook.com/groups/aiubcybersecurityandprogrammingsociety) |
-| **Email**     | eng.sagarbiswas.aiub@gmail.com                                                                                     |
+| **Email**     | sagarbiswas@multihat.dev                                                                                     |
 
 </div>
 
