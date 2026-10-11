@@ -46,9 +46,9 @@ Use one of these labels (apply manually or request in the issue body):
 ### Option B: Submit a Pull Request
 
 1. Fork the repository
-2. Create a branch: `git checkout -b fix/posting-time-correction` (or `feat/new-note-topic`)
+2. Create a branch: `git checkout -b fix/hosting-plan-correction` (or `feat/new-note-topic`)
 3. Make your changes
-4. Commit with a clear message: `fix: correct LinkedIn peak hour citation (Buffer 2026)`
+4. Commit with a clear message: `fix: update Render free tier specifications (2026)`
 5. Open a PR against `main` - describe what changed and why
 
 ---
