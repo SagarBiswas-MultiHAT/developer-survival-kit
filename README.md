@@ -1,4 +1,4 @@
-# 📡 Research & Engineering Strategy Vault
+# 🧠 Developer Second Brain & Engineering Vault
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-[![Status: Active](https://img.shields.io/badge/Status-Active%20%7C%20Living%20Vault-00C853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SagarBiswas-MultiHAT/researchVault)
+[![Status: Active](https://img.shields.io/badge/Status-Active%20%7C%20Living%20Vault-00C853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SagarBiswas-MultiHAT/second-brain)
 [![Cloud Spend: $0 Forever](https://img.shields.io/badge/Cloud%20Spend-%240%20Forever-00B894?style=for-the-badge&logo=googlecloud&logoColor=white)](#-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026)
 [![License Guide: Complete](https://img.shields.io/badge/Guide-Open--Source%20Licenses-0984E3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#-pillar-2-the-ultimate-guide-to-github--open-source-licenses)
 [![Security: GPG Verified](https://img.shields.io/badge/Security-GPG%20Commit%20Signing-critical?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing)
@@ -18,7 +18,7 @@
 [![Docs License: CC BY-SA 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--SA%204.0-blue.svg)](./LICENSE-DOCS)
 [![Anti-Theft: DMCA & GPG Protected](https://img.shields.io/badge/Anti--Theft-DMCA%20%26%20GPG%20Protected-critical.svg)](./LICENSE-DOCS#3-mandatory-attribution--anti-theft-requirements)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github)](./.github/CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square)](https://github.com/SagarBiswas-MultiHAT/researchVault/commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square)](https://github.com/SagarBiswas-MultiHAT/second-brain/commits/main)
 [![Authored By: Sagar Biswas](https://img.shields.io/badge/Author-Sagar%20Biswas%20(@SagarBiswas--MultiHAT)-blue?style=flat-square&logo=github)](https://github.com/SagarBiswas-MultiHAT)
 
 <br>
@@ -38,9 +38,9 @@
 
 ---
 
-## 🌟 What is the Research Vault?
+## 🌟 What is the Developer Second Brain?
 
-The **Research Vault** is a curated, open-source knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to four of the most critical questions faced by developers, students, and independent creators:
+The **Developer Second Brain** (formerly *Research Vault*) is a curated, open-source knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to four of the most critical questions faced by developers, students, and independent creators:
 
 1. **How do I host web apps and portfolios 24/7 without paying $20 to $50 monthly or dealing with slow 50-second cold starts?**
 2. **Which open-source license actually protects my code and roadmaps from being stolen or repackaged into paid courses, while maximizing GitHub stars?**
@@ -90,18 +90,34 @@ All research guides, execution routines, and documents are stored in the reposit
 ## 🗺️ Architectural Map of the Vault
 
 ```mermaid
+%%{init: {'flowchart': {'wrappingWidth': 170}}}%%
 flowchart TD
-    Vault["📡 Research & Engineering Vault<br/><code>SagarBiswas-MultiHAT / research</code>"]
+    Vault["🧠 Developer Second Brain & Engineering Vault<br/><code>SagarBiswas-MultiHAT/second-brain</code>"]
 
-    Vault --> Cloud["🌐 Cloud & Hosting Architecture<br/><code>free-hosting-plan.md</code>"]
-    Vault --> Legal["⚖️ Open-Source Legal & Licensing<br/><code>github_open_source_licenses_guide.md</code>"]
-    Vault --> Sec["🔐 Identity & Supply Chain Security<br/><code>github_gpg_commit_signing_guide.md</code>"]
-    Vault --> Execution["⚡ Execution & Study Systems<br/><code>Routine_Study_v3.md</code>"]
+    Vault --> Cloud["🌐 Cloud & Web Architecture"]
+    Vault --> Legal["⚖️ Open-Source Legal & Licensing"]
+    Vault --> Sec["🔐 Identity & Cryptographic Security"]
+    Vault --> Execution["⚡ High-Performance Systems & Routines"]
+    Vault --> Gov["🤝 Community & Governance"]
 
-    Cloud --> C1["▪ 9 Platforms Benchmarked (Render, Koyeb, Vercel, OCI, Cloud Run)<br/>▪ Automated 24/7 Keep-Alive Pings (Zero Cold Starts)<br/>▪ Multi-Project Portfolio Routing for $0 Forever"]
-    Legal --> L1["▪ 7 Top Licenses Explained Simply (MIT, Apache 2.0, GPL, CC BY-SA)<br/>▪ Dual-Licensing Architecture (Code + Roadmaps in One Repo)<br/>▪ 2-Minute DMCA Takedown Blueprint & GPG Cryptographic Proof"]
-    Sec --> S1["▪ Identity Spoofing Flaw in Git Explained for Beginners<br/>▪ Ed25519 GnuPG Key Generation & GitHub Verified Badge Setup<br/>▪ Vigilant Mode & Automated Terminal Signing Workflows"]
-    Execution --> E1["▪ 7h Sleep Anchor (12AM-7AM) + 9h Focused Deep Work<br/>▪ 5-Subject Cyclic Rotation (~40 Hours Immersion per Subject)<br/>▪ 4-Stage Cybersecurity Pipeline (WebSec → Exploits → Recon → Bounty)"]
+    %% Cloud Branch
+    Cloud --> F_Hosting["📄 <code>free-hosting-plan.md</code><br/>▪ 9-Platform Free-Tier Matrix (Render, Koyeb, Vercel, OCI)<br/>▪ Automated 24/7 Keep-Alive Pings (Zero Cold Starts)<br/>▪ Multi-App Zero-Spend Portfolio Routing"]
+
+    %% Legal Branch
+    Legal --> F_LicenseGuide["📄 <code>github_open_source_licenses_guide.md</code><br/>▪ Top 7 Licenses Compared (MIT, Apache 2.0, GPL, CC BY-SA)<br/>▪ Dual-Licensing Blueprint (Code + Roadmaps in One Repo)<br/>▪ 2-Minute DMCA Takedown Blueprint & GPG Prior Art"]
+    Legal --> F_MIT["⚖️ <code>LICENSE</code><br/>▪ Canonical MIT License (Permissive Code & Scripts)"]
+    Legal --> F_CC["🛡️ <code>LICENSE-DOCS</code><br/>▪ CC BY-SA 4.0 License with Anti-Theft & ShareAlike Terms"]
+
+    %% Security Branch
+    Sec --> F_GPG["📄 <code>github_gpg_commit_signing_guide.md</code><br/>▪ Git Identity Spoofing Flaw Explained Simply<br/>▪ Ed25519 GnuPG Key Setup across Windows/macOS/Linux<br/>▪ Vigilant Mode & Green GitHub Verified Commit Badge"]
+
+    %% Execution Branch
+    Execution --> F_Study["📅 <code>Routine_Study_v3.md</code><br/>▪ PRISM Daily Engine (7h Sleep Anchor + 9h Deep Work)<br/>▪ 5-Subject Cyclic Rotation (~40h Immersion per Topic)<br/>▪ 4-Stage Practical Cybersecurity Roadmap"]
+    Execution --> F_StudyDocs["📑 Companion Study Documents<br/>▪ <code>Routine_Study_v3.docx</code> (Formatted Word Edition)<br/>▪ <code>Routine_Study_v3_Bangla.docx</code> (Bengali Edition)"]
+    Execution --> F_Eating["🥗 <code>Routine_Eating.md</code> & <code>Routine_Eating.docx</code><br/>▪ দৈনিক খাবারের রুটিন: High-Focus Daily Nutrition Plan<br/>▪ Sustained Cognitive Energy for 9+ Hours Deep Technical Work"]
+
+    %% Governance Branch
+    Gov --> F_Contrib["🤝 <code>.github/CONTRIBUTING.md</code><br/>▪ Verified Data Corrections, New Sources & PR Protocols<br/>▪ Regional Audience Addendums (BST / International)"]
 ```
 
 ---
@@ -122,6 +138,8 @@ Most developers spend $15 to $50 per month hosting simple portfolio projects, or
 * **Portfolio Routing Architecture:** How to connect a Next.js or React frontend on Vercel to a Node.js or Python backend on Koyeb or Render under clean, professional routing.
 * **Credit-Card-Free Options:** Clear flags highlighting which providers require zero credit card to get started.
 
+<div align="center">
+
 | Platform | Free Compute | Idle Timeout | Cold Start | Best Stack | Credit Card? |
 | :--- | :--- | :--- | :--- | :--- | :---: |
 | **Render** | 512 MB / 0.1 CPU | 15 min | 30 to 50 sec | Node.js, Express, Python | **No** |
@@ -129,6 +147,8 @@ Most developers spend $15 to $50 per month hosting simple portfolio projects, or
 | **Vercel** | Global Edge CDN | Instant | < 300 ms | Next.js, React, Svelte | **No** |
 | **Oracle Cloud** | 24 GB / 4 ARM Cores | **Never** | **0 sec (24/7)** | Full Docker, PostgreSQL | Verification only |
 | **Cloud Run** | 2M requests/mo | Scale to zero | 1 to 3 sec | Containerized Microservices | Verification only |
+
+</div>
 
 👉 **[Read the Full Free Hosting Guide →](./free-hosting-plan.md)**
 
@@ -206,7 +226,7 @@ All guides, benchmarks, and blueprints published in this repository adhere to fo
 
 Contributions that improve accuracy, add verified benchmark data, or expand coverage to new hosting platforms and tools are welcome.
 
-- **Found an outdated metric or broken link?** Open a [GitHub Issue](https://github.com/SagarBiswas-MultiHAT/researchVault/issues).
+- **Found an outdated metric or broken link?** Open a [GitHub Issue](https://github.com/SagarBiswas-MultiHAT/second-brain/issues).
 - **Want to contribute a new benchmark or guide?** Review our [Contributing Guidelines](./.github/CONTRIBUTING.md) and submit a Pull Request.
 
 ---
@@ -224,7 +244,7 @@ This repository operates under a formal **Dual-Licensing Architecture** (detaile
 ### 🛡️ Anti-Theft & Course Repackaging Protections
 
 - **No Paywalls or Course Repackaging:** Under the `ShareAlike` clause of [`LICENSE-DOCS`](./LICENSE-DOCS), no educational platform, bootcamp, or individual may repackage these research guides into closed PDFs, paid video courses, or private membership portals. Any adaptation must remain open and free under CC BY-SA 4.0.
-- **Mandatory Canonical Attribution:** Any blog, YouTube video, newsletter, or documentation citing or adapting this repository must prominently credit **Sagar Biswas (@SagarBiswas-MultiHAT)** and provide a direct clickable link to `https://github.com/SagarBiswas-MultiHAT/researchVault`.
+- **Mandatory Canonical Attribution:** Any blog, YouTube video, newsletter, or documentation citing or adapting this repository must prominently credit **Sagar Biswas (@SagarBiswas-MultiHAT)** and provide a direct clickable link to `https://github.com/SagarBiswas-MultiHAT/second-brain`.
 - **Automatic License Termination & DMCA:** Erasing author names, stripping license files, or re-uploading uncredited copies violates copyright law. Under Section 6(a) of CC BY-SA 4.0, permissions terminate automatically, subjecting infringing repositories to immediate DMCA takedown notices backed by GPG cryptographic commit timestamps.
 - **Retroactive Scope:** This licensing framework applies retroactively and prospectively across all historical commits, prior releases, and current versions of this repository authored by Sagar Biswas.
 
@@ -254,3 +274,5 @@ Full-Stack Engineer • Cybersecurity Researcher • Founder of MultiHAT
 <sub>Disclaimer: All cloud plan specifications, free tier limits, and legal explanations reflect active terms at the time of documentation. Always verify current platform terms before deploying production workloads.</sub>
 
 </div>
+
+---

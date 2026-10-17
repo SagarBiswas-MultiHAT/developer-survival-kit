@@ -248,3 +248,17 @@ With this architecture:
 - Every single application has dedicated compute resources.
 - Every portfolio link opens instantly for recruiters without cold start delays.
 - Your entire developer presence runs online **24/7/365 for exactly $0**.
+
+---
+
+<div align="center">
+
+**Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
+*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
+⭐ **Star this repository** to help more developers deploy 24/7 web apps for $0!
+
+[Back to Top](#the-complete-guide-to-free-full-stack-web-hosting) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
+
+</div>
+
+---

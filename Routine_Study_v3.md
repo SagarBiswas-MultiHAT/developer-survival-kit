@@ -1,6 +1,6 @@
 <!--
   Research Note: PRISM STUDY ROUTINE v3
-  Repository:    https://github.com/SagarBiswas-MultiHAT/researchVault
+  Repository:    https://github.com/SagarBiswas-MultiHAT/second-brain
   Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
   Version:       3.0
   Last Updated:  2026-08-26
@@ -180,6 +180,7 @@ Two daily blocks build from web security fundamentals to live bug bounty methodo
 
 - **Active scope:** \*.bitstamp.net on the 2x bounty campaign. Highest-priority finding: jira.bitstamp.net exposed on direct AWS IPs without WAF - continue enumeration.
 
+<a id="6-full-stack-development--github-student-developer-pack"></a><a id="6-full-stack-development-github-student-developer-pack"></a>
 # 6. Full-Stack Development & GitHub Student Developer Pack
 
 The 5:55–6:55 PM block is for shipping. Use the GitHub Student Developer Pack to access professional tools at zero cost. Everything below is free with a verified student account.
@@ -209,6 +210,7 @@ The 5:55–6:55 PM block is for shipping. Use the GitHub Student Developer Pack 
 
 4.  **Mini security tools:** Build small focused utilities from your daily cyber lab work. Each tool is a commit, a LinkedIn post, and a portfolio entry.
 
+<a id="7-deep-project-thinking-hour-730--830-pm"></a><a id="7-deep-project-thinking-hour-730-830-pm"></a>
 # 7. Deep Project Thinking Hour (7:30 – 8:30 PM)
 
 No coding. No tutorials. Pure thinking, planning, and designing. This is the highest-leverage hour of your day - it makes the next 7 coding hours 3× more productive by ensuring you build the right things right.
@@ -311,6 +313,7 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 5.  **Recharge:** Sunday afternoon is protected rest time. No study content after 4:00 PM. Start the week fresh.
 
+<a id="13-craving--setback-playbook"></a><a id="13-craving-setback-playbook"></a>
 # 13. Craving & Setback Playbook
 
 ## When a Craving Hits
@@ -333,6 +336,7 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 > *Reduce to non-negotiable essentials: Vocab + 2 subject hours + 1 Cyber hour. Full reset tomorrow.*
 
+<a id="14-tools--micro-setup-do-tonight"></a><a id="14-tools-micro-setup-do-tonight"></a>
 # 14. Tools & Micro-Setup (Do Tonight)
 
 - Physical alarm clock placed across the room - set to 7:00 AM.
@@ -347,6 +351,7 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 - **VS Code:** confirm Copilot Agent Mode is active. HexStrike MCP timeout corrected, PATH injection for Go/pip tools verified.
 
+<a id="15-github--linkedin-micro-templates"></a><a id="15-github-linkedin-micro-templates"></a>
 # 15. GitHub & LinkedIn Micro-Templates
 
 ## Git Commit Message Format
@@ -367,6 +372,7 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 **Example:** Shipped a security header scanner today. It flags missing CSP, HSTS, and X-Frame-Options on any target. Built during my daily Cyber Lab block as part of OSINT toolkit v3. What is the first header you check on a new scope?
 
+<a id="16-sleep-hygiene--wind-down-protocol"></a>
 # 16. Sleep Hygiene & Wind-down Protocol
 
 - **Screens off at 11:00 PM -** 60 min before lights out. Blue light delays melatonin onset and extends sleep latency.
@@ -387,6 +393,7 @@ No coding. No tutorials. Pure thinking, planning, and designing. This is the hig
 
 ---
 
+<a id="-how-to-customize-this-routine"></a><a id="how-to-customize-this-routine"></a>
 ## 💡 How to Customize This Routine
 
 To generate a version of this routine tailored to your own subjects, timeline, or constraints - attach this file to Claude (or any capable AI assistant) and send the prompt below. Adjust the subject list and goals to match your situation before sending.
@@ -412,3 +419,15 @@ Alongside my academic preparation, I also want to focus on building strong pract
 
 I also want to dedicate enough time to thinking, planning, and building meaningful projects, rather than just rushing through tasks.
 ```
+
+---
+
+<div align="center">
+
+**Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
+*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
+[Vault Catalog (README)](./README.md) • [Bengali Edition](./Routine_Study_v3_Bangla.docx) • [Word Edition](./Routine_Study_v3.docx) • [Contributing](./.github/CONTRIBUTING.md)
+
+</div>
+
+---

@@ -1,12 +1,13 @@
 <div align="center">
 
+<a id="-the-ultimate-guide-to-github-gpg-commit-signing"></a><a id="the-ultimate-guide-to-github-gpg-commit-signing"></a>
 # 🔐 The Ultimate Guide to GitHub GPG Commit Signing
 ### **From Zero to "Verified": Protect Your Identity, Secure Your Code, and Build Trust in Open Source**
 
 [![GitHub Verified](https://img.shields.io/badge/GitHub-Verified_Commits-2ea44f?style=for-the-badge&logo=github)](https://docs.github.com/en/authentication/managing-commit-signature-verification)
 [![GnuPG](https://img.shields.io/badge/GnuPG-2.4%2B-0093dd?style=for-the-badge&logo=gnuprivacyguard)](https://gnupg.org/)
-[![Security](https://img.shields.io/badge/Security-Supply_Chain-critical?style=for-the-badge&logo=securityscorecard)](#)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](#)
+[![Security](https://img.shields.io/badge/Security-Supply_Chain-critical?style=for-the-badge&logo=securityscorecard)](#-the-shocking-flaw-in-git-why-you-need-this)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](./.github/CONTRIBUTING.md)
 
 *Written in plain English so **anyone**, even a non-technical reader, can understand how digital signatures work, while giving developers an exact, copy-pasteable blueprint.*
 
@@ -23,6 +24,7 @@
 
 ---
 
+<a id="-the-shocking-flaw-in-git-why-you-need-this"></a><a id="the-shocking-flaw-in-git-why-you-need-this"></a>
 ## 🚨 The Shocking Flaw in Git (Why You Need This)
 
 Did you know that **anyone on the internet can pretend to be you on GitHub** in less than 10 seconds?
@@ -65,6 +67,7 @@ When you sign your commits with GPG, GitHub places a green **`Verified`** badge 
 
 ---
 
+<a id="-what-is-gpg-explained-for-everyone"></a><a id="what-is-gpg-explained-for-everyone"></a>
 ## 🧠 What is GPG? (Explained for Everyone)
 
 **GPG** stands for **GNU Privacy Guard**. Don't let the technical name intimidate you.
@@ -80,6 +83,7 @@ The king poured hot wax onto the envelope and pressed his **personal signet ring
 
 ---
 
+<a id="-how-gpg-works-under-the-hood-without-the-math"></a><a id="how-gpg-works-under-the-hood-without-the-math"></a>
 ## 🔑 How GPG Works Under the Hood (Without the Math)
 
 When you set up GPG, your computer creates **two linked digital keys** plus a **passphrase**:
@@ -113,6 +117,7 @@ When you set up GPG, your computer creates **two linked digital keys** plus a **
 
 ---
 
+<a id="-why-gpg-matters-for-your-career--open-source"></a><a id="why-gpg-matters-for-your-career--open-source"></a>
 ## 🌟 Why GPG Matters for Your Career & Open Source
 
 1. **Stops Impersonators Cold:** Even if someone copies your username and email, their commits will show up as `Unverified` while yours shine with `Verified`.
@@ -122,6 +127,7 @@ When you set up GPG, your computer creates **two linked digital keys** plus a **
 
 ---
 
+<a id="-step-by-step-setup-guide-zero-to-verified"></a><a id="step-by-step-setup-guide-zero-to-verified"></a>
 ## 🛠️ Step-by-Step Setup Guide (Zero to Verified)
 
 Follow these steps carefully. No prior cryptography experience is needed.
@@ -198,6 +204,7 @@ Unlike a short, complicated password (like `P@$$w0rd1`), a **Passphrase** is a m
 
 ---
 
+<a id="step-4-find-your-key-id--export-your-public-key"></a><a id="step-4-find-your-key-id-export-your-public-key"></a>
 ### Step 4: Find Your Key ID & Export Your Public Key
 
 Now that your key is created, run this command to view it:
@@ -293,6 +300,7 @@ Go to your repository on GitHub and click on **Commits**. You will now see the g
 
 ---
 
+<a id="-pro-tips--quality-of-life-upgrades"></a><a id="pro-tips--quality-of-life-upgrades"></a>
 ## ⚡ Pro Tips & Quality-of-Life Upgrades
 
 ### 1. Stop Typing Your Passphrase on Every Single Commit
@@ -320,6 +328,7 @@ If you commit using the VS Code Source Control sidebar, open VS Code Settings (`
 
 ---
 
+<a id="-security--key-management"></a><a id="security--key-management"></a>
 ## 🛡️ Security & Key Management
 
 ### What Happens If My Passphrase Leaks?
@@ -345,6 +354,7 @@ gpg --import my-private-gpg-backup.asc
 
 ---
 
+<a id="-gpg-vs-ssh-commit-signing"></a><a id="gpg-vs-ssh-commit-signing"></a>
 ## ⚖️ GPG vs. SSH Commit Signing
 
 GitHub supports signing commits with both GPG keys and SSH keys. Which one should you choose?
@@ -358,6 +368,7 @@ GitHub supports signing commits with both GPG keys and SSH keys. Which one shoul
 
 ---
 
+<a id="-troubleshooting-common-errors"></a><a id="troubleshooting-common-errors"></a>
 ## 🔧 Troubleshooting Common Errors
 
 <details>
@@ -396,6 +407,7 @@ git config --global gpg.program "$(which gpg)"
 
 ---
 
+<a id="-frequently-asked-questions-faq"></a><a id="frequently-asked-questions-faq"></a>
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Q: If someone clones my open-source project, deletes the `.git` folder, and uploads it as their own, does GPG stop them?
@@ -423,7 +435,12 @@ Found this guide helpful?
 
 <div align="center">
 
-**Built with ❤️ for the Open Source Community**  
+**Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
+*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
 *Stay Secure. Keep Shipping. Always Sign Your Commits.*
 
+[Back to Top](#-the-ultimate-guide-to-github-gpg-commit-signing) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
+
 </div>
+
+---

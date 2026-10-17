@@ -1,5 +1,6 @@
 <div align="center">
 
+<a id="-the-ultimate-guide-to-github--open-source-licenses"></a><a id="the-ultimate-guide-to-github--open-source-licenses"></a>
 # ⚖ The Ultimate Guide to GitHub & Open-Source Licenses
 
 ### *Explained in Plain English: Protect Your Code, Roadmaps, Books, and Research While Maximizing SEO, Visibility & GitHub Stars*
@@ -199,7 +200,7 @@ When developers, corporate engineers, tech bloggers, and curators of massive Git
 
 ---
 
-<a id="-6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="-6-dual-licensing-how-to-protect-code--roadmapsbooksdocs-in-one-repo"></a>
+<a id="-6-dual-licensing-how-to-protect-code--roadmaps-in-one-repo"></a><a id="-6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="-6-dual-licensing-how-to-protect-code--roadmapsbooksdocs-in-one-repo"></a>
 ## 🧬 6. Dual-Licensing: How to Protect Code + Roadmaps/Books/Docs in One Repo
 
 What if your repository contains **both** written intellectual property (roadmaps, books, research proposals, architectural diagrams) **and** executable source code (C, Rust, Python scripts, lab payloads, CI workflows)?
@@ -417,6 +418,8 @@ Did this guide clear up the confusion around GitHub and open-source licensing?
 🌐 [multihat.dev](https://multihat.dev)
 
 *Build Fearlessly. License Strategically. Protect Your Craft.*
+
+[Back to Top](#-the-ultimate-guide-to-github--open-source-licenses) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 
