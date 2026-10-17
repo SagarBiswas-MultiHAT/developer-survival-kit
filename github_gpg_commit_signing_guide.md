@@ -8,7 +8,7 @@
 [![Security](https://img.shields.io/badge/Security-Supply_Chain-critical?style=for-the-badge&logo=securityscorecard)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=for-the-badge)](#)
 
-*Written in plain English so **anyone**—even a non-technical reader—can understand how digital signatures work, while giving developers an exact, copy-pasteable blueprint.*
+*Written in plain English so **anyone**, even a non-technical reader, can understand how digital signatures work, while giving developers an exact, copy-pasteable blueprint.*
 
 ---
 
@@ -40,7 +40,7 @@ git config user.email "your-public-email@example.com"
 > Without cryptographic verification, Git has **zero built-in proof** of who actually wrote a line of code. This is known as **Identity Spoofing**.
 
 **The Solution?** **GPG Commit Signing.**  
-When you sign your commits with GPG, GitHub places a green **`Verified`** badge next to your commits—proving mathematically that the code came from your machine and nobody else's.
+When you sign your commits with GPG, GitHub places a green **`Verified`** badge next to your commits - proving mathematically that the code came from your machine and nobody else's.
 
 ---
 

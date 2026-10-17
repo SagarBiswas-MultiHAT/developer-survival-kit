@@ -42,7 +42,7 @@
    * [6. Creative Commons Licenses (Best for Roadmaps, Books & Research Proposals)](#6-creative-commons-licenses-best-for-roadmaps-books--research-proposals)
    * [7. The Unlicense (100% Public Domain)](#7-the-unlicense-100-public-domain)
 5. [Which License is Best for SEO, Visibility & GitHub Trending? (Best to Worst)](#-5-which-license-is-best-for-seo-visibility--github-trending-best-to-worst)
-6. [Dual-Licensing: How to Protect Code + Roadmaps/Books/Docs in One Repo](#-6-dual-licensing-how-to-protect-code--roadmaps-in-one-repo)
+6. [Dual-Licensing: How to Protect Code + Roadmaps/Books/Docs in One Repo](#-6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo)
 7. [The "Older Commit Checkout" Myth & Retroactive Protection](#-7-the-older-commit-checkout-myth--retroactive-protection)
 8. [How to Craft the Perfect License Setup for Your Specific Project](#-8-how-to-craft-the-perfect-license-setup-for-your-specific-project)
 9. [Real-World Case Studies: How 3 Flagship Repositories Are Licensed](#-9-real-world-case-studies-how-3-flagship-repositories-are-licensed)
@@ -87,7 +87,7 @@ Forget complicated legal jargon. Imagine you baked the **world's best chocolate 
 * **The MIT License:** *"Bake this cake at home, change the frosting, or even sell it in your bakery! Just keep the label on the recipe card that says **Original Recipe by [Your Name]**, and don't blame me if you burn your kitchen down."*
 * **Apache License 2.0:** *"Same freedom as MIT, PLUS: if you change any ingredients, you must write a note on the file stating what you changed; you must display my credit card (`NOTICE` file) in your bakery window; and you cannot call your bakery by my trademarked brand name."*
 * **GNU GPLv3 License:** *"You can bake this cake, improve the recipe, and sell it. **HOWEVER**, if you distribute your upgraded cake, you are legally forced to publish your secret upgraded recipe for free under these exact same rules!"*
-* **Creative Commons Attribution-ShareAlike (`CC BY-SA 4.0`):** *"Built specifically for cookbooks, roadmaps, and research papers. Anyone can share, quote, or translate my guide, provided they credit my name, link directly back to my original page, and share any adapted versions under this exact same open license so nobody can lock my work behind a paywall."*
+* **Creative Commons Attribution-ShareAlike (`CC BY-SA 4.0`):** *"Built specifically for cookbooks, roadmaps, books, docs and research papers. Anyone can share, quote, or translate my guide, provided they credit my name, link directly back to my original page, and share any adapted versions under this exact same open license so nobody can lock my work behind a paywall."*
 * **Creative Commons Non-Commercial (`CC BY-NC-SA 4.0`):** *"Anyone can read, translate, and share my guide for free with credit, but **nobody is allowed to use it commercially or sell it for money**."*
 
 ---
@@ -156,8 +156,8 @@ Closes the "cloud hosting loophole" in `GPLv3`.
 * **How it works:** If someone modifies **your existing MPL-licensed files**, they must share those modified files openly. However, they can still combine your files with their own separate proprietary files in a larger application without open-sourcing their own files.
 
 <a id="6-creative-commons-licenses-best-for-roadmaps-books--research-proposals"></a>
-### 6. Creative Commons Licenses (Best for Roadmaps, Books & Research Proposals)
-Standard software licenses (`MIT`, `Apache`, `GPL`) were drafted for executable source code, not written text or diagrams. Both the Free Software Foundation (FSF) and Creative Commons recommend using **Creative Commons (CC)** licenses for documentation, roadmaps, books, and research proposals:
+### 6. Creative Commons Licenses (Best for Roadmaps, Books, docs & Research Proposals)
+Standard software licenses (`MIT`, `Apache`, `GPL`) were drafted for executable source code, not written text or diagrams. Both the Free Software Foundation (FSF) and Creative Commons recommend using **Creative Commons (CC)** licenses for documentation, roadmaps, books, docs, and research proposals:
 * **`CC BY 4.0` (Attribution):** Anyone can share, adapt, or translate your work (even commercially), provided they credit you and link back to your original repository.
 * **`CC BY-SA 4.0` (Attribution-ShareAlike):** The gold standard used by Wikipedia and open research. Anyone can share, cite, or adapt your work (including tech bloggers and monetized YouTubers), **provided they credit you, link back to your canonical repository, indicate if changes were made, and distribute any derivative work under the exact same open `CC BY-SA 4.0` license.** Because of the `ShareAlike` clause, no bootcamp, course seller, or publisher can take your roadmap or research and lock it behind a proprietary paywall.
 * **`CC BY-NC-SA 4.0` (Attribution-NonCommercial-ShareAlike):** Allows free sharing and translation with credit under the same license, while strictly forbidding commercial sales or monetization.
@@ -190,7 +190,7 @@ When developers, corporate engineers, tech bloggers, and curators of massive Git
 | :---: | :--- | :---: | :---: | :--- |
 | **#1** | **MIT License** | **10/10** | **Maximum** | Zero legal friction. Every developer, company, and "Awesome List" curator trusts MIT instantly. |
 | **#2** | **Apache License 2.0** | **9.8/10** | **Maximum** | Equal to MIT in developer adoption, while adding enterprise credibility, patent safety, and `NOTICE` file UI attribution. |
-| **#3** | **`CC BY 4.0` / `CC BY-SA 4.0`** | **9.5/10** | **Maximum (For Docs/Roadmaps)** | Best for roadmaps, books, and research. Legally forces every blog, paper, and website that quotes or adapts your work to include a direct hyperlink back to your repo. |
+| **#3** | **`CC BY 4.0` / `CC BY-SA 4.0`** | **9.5/10** | **Maximum (For Docs/Roadmaps)** | Best for roadmaps, books, docs, and research. Legally forces every blog, paper, and website that quotes or adapts your work to include a direct hyperlink back to your repo. |
 | **#4** | **BSD (2/3-Clause) / MPL 2.0** | **8.5/10** | **High** | Permissive and respected, just slightly less universal than MIT or Apache 2.0. |
 | **#5** | **GNU GPLv3** | **6.5/10** | **Moderate** | Major tech companies (Google, Meta, Amazon, Apple) prohibit employees from using or forking `GPLv3` code on work machines, cutting off corporate stars. |
 | **#6** | **GNU AGPLv3** | **4.5/10** | **Low-Moderate** | Strong against cloud clones, but avoided by many developers and startups due to network-copyleft compliance concerns. |
@@ -199,7 +199,7 @@ When developers, corporate engineers, tech bloggers, and curators of massive Git
 
 ---
 
-<a id="-6-dual-licensing-how-to-protect-code--roadmaps-in-one-repo"></a><a id="6-dual-licensing-how-to-protect-code--roadmaps-in-one-repo"></a><a id="-6-dual-licensing-how-to-protect-code--roadmapsbooksdocs-in-one-repo"></a>
+<a id="-6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="6-dual-licensing-how-to-protect-code--roadmaps-books-docs-in-one-repo"></a><a id="-6-dual-licensing-how-to-protect-code--roadmapsbooksdocs-in-one-repo"></a>
 ## 🧬 6. Dual-Licensing: How to Protect Code + Roadmaps/Books/Docs in One Repo
 
 What if your repository contains **both** written intellectual property (roadmaps, books, research proposals, architectural diagrams) **and** executable source code (C, Rust, Python scripts, lab payloads, CI workflows)?
@@ -388,7 +388,7 @@ Use these ready-to-copy badges at the top of your `README.md` so visitors and se
 <!-- For Libraries & Code Tools (MIT) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
-<!-- For Dual-Licensed Roadmaps, Curriculum & Research Repos -->
+<!-- For Dual-Licensed Roadmaps, Books, Docs, Curriculum & Research Repos -->
 [![Docs & Curriculum License: CC BY-SA 4.0](https://img.shields.io/badge/Docs%20%26%20Roadmap-CC%20BY--SA%204.0-lightgrey.svg)](./LICENSE-DOCS)
 [![Code & Labs License: MIT](https://img.shields.io/badge/Code%20%26%20Labs-MIT-green.svg)](./LICENSE)
 ```
@@ -397,7 +397,7 @@ Use these ready-to-copy badges at the top of your `README.md` so visitors and se
 **No.** Under the Berne Convention, copyright protection is automatic the instant your original work is created and saved. Your GitHub commit timestamps, GPG `Verified` signatures, and Zenodo DOI (if enabled) serve as your public proof of creation and prior art.
 
 ### Q4: What if someone keeps my MIT license, changes two lines in the README, and brags on social media that they built it?
-First, anyone inspecting their repository will see a single recent commit compared to your months of GPG-verified engineering history. Second, if you want to make unmarked edits and stripped UI credits illegal on flagship projects, use **Apache License 2.0** (with a root `NOTICE` file) for software or **`CC BY-SA 4.0`** for roadmaps and research, both of which legally require modifiers to explicitly state what they changed and retain prominent attribution to your canonical repository.
+First, anyone inspecting their repository will see a single recent commit compared to your months of GPG-verified engineering history. Second, if you want to make unmarked edits and stripped UI credits illegal on flagship projects, use **Apache License 2.0** (with a root `NOTICE` file) for software or **`CC BY-SA 4.0`** for roadmaps, books, docs, and research, both of which legally require modifiers to explicitly state what they changed and retain prominent attribution to your canonical repository.
 
 ---
 

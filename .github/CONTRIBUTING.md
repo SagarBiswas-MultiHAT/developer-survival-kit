@@ -1,4 +1,4 @@
-# Contributing to `research`
+# Contributing to `researchVault`
 
 > *"Curiosity is my payload - delivered over POST."*
 
@@ -25,7 +25,7 @@ Most research here is calibrated for **BST (UTC+6, Bangladesh Standard Time)** a
 
 ### 🗂️ New Research Notes
 If you want to contribute an entirely new research note, open an issue first with the proposed topic and key sources. Notes must:
-- Be placed in the `notes/` directory (e.g. `notes/XSS-CHEATSHEET.md`)
+- Be placed in the repository root (e.g. `XSS-CHEATSHEET.md`)
 - Cite at least one verifiable primary source
 - Be written in Markdown
 - Follow the metadata header format (see existing notes)
@@ -35,7 +35,7 @@ If you want to contribute an entirely new research note, open an issue first wit
 ## How to Contribute
 
 ### Option A: Open an Issue
-For corrections, suggestions, additional data, or discussion questions - [open a GitHub Issue](../../issues/new).
+For corrections, suggestions, additional data, or discussion questions - [open a GitHub Issue](https://github.com/SagarBiswas-MultiHAT/researchVault/issues/new).
 
 Use one of these labels (apply manually or request in the issue body):
 - `correction` - factual error or outdated data
@@ -98,4 +98,4 @@ New notes should follow this header format:
 
 ## Questions?
 
-Open an issue or start a [Discussion](../../discussions) - feedback threads, regional data shares, and methodology debates are all fair game.
+Open an issue or start a [Discussion](https://github.com/SagarBiswas-MultiHAT/researchVault/discussions) - feedback threads, regional data shares, and methodology debates are all fair game.

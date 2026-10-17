@@ -1,6 +1,6 @@
 <!--
   Research Note: PRISM STUDY ROUTINE v3
-  Repository:    https://github.com/SagarBiswas-MultiHAT/research
+  Repository:    https://github.com/SagarBiswas-MultiHAT/researchVault
   Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
   Version:       3.0
   Last Updated:  2026-08-26
