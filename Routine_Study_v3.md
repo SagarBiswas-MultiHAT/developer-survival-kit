@@ -1,6 +1,6 @@
 <!--
   Research Note: PRISM STUDY ROUTINE v3
-  Repository:    https://github.com/SagarBiswas-MultiHAT/second-brain
+  Repository:    https://github.com/SagarBiswas-MultiHAT/developer-survival-kit
   Author:        Sagar Biswas (@SagarBiswas-MultiHAT)
   Version:       3.0
   Last Updated:  2026-08-26
@@ -425,8 +425,8 @@ I also want to dedicate enough time to thinking, planning, and building meaningf
 <div align="center">
 
 **Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
-*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
-[Vault Catalog (README)](./README.md) • [Bengali Edition](./Routine_Study_v3_Bangla.docx) • [Word Edition](./Routine_Study_v3.docx) • [Contributing](./.github/CONTRIBUTING.md)
+*Part of the [Developer Survival Kit](./README.md)*  
+[Survival Kit Catalog (README)](./README.md) • [Bengali Edition](./Routine_Study_v3_Bangla.docx) • [Word Edition](./Routine_Study_v3.docx) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 

@@ -185,7 +185,7 @@
 <div align="center">
 
 **প্রণীত: [সাগর বিশ্বাস (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
-*অংশ: [Developer Second Brain & Engineering Vault](./README.md)*  
+*অংশ: [Developer Survival Kit](./README.md)*  
 [মূল সংগ্রহশালা (README)](./README.md) • [Word সংস্করণ](./Routine_Eating.docx) • [নিয়মাবলী](./.github/CONTRIBUTING.md)
 
 </div>

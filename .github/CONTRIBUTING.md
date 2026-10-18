@@ -1,4 +1,4 @@
-# Contributing to `second-brain`
+# Contributing to `developer-survival-kit`
 
 > *"Curiosity is my payload - delivered over POST."*
 
@@ -35,7 +35,7 @@ If you want to contribute an entirely new research note, open an issue first wit
 ## How to Contribute
 
 ### Option A: Open an Issue
-For corrections, suggestions, additional data, or discussion questions - [open a GitHub Issue](https://github.com/SagarBiswas-MultiHAT/second-brain/issues/new).
+For corrections, suggestions, additional data, or discussion questions - [open a GitHub Issue](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/issues/new).
 
 Use one of these labels (apply manually or request in the issue body):
 - `correction` - factual error or outdated data
@@ -98,4 +98,4 @@ New notes should follow this header format:
 
 ## Questions?
 
-Open an issue or start a [Discussion](https://github.com/SagarBiswas-MultiHAT/second-brain/discussions) - feedback threads, regional data shares, and methodology debates are all fair game.
+Open an issue or start a [Discussion](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/discussions) - feedback threads, regional data shares, and methodology debates are all fair game.

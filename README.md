@@ -1,4 +1,4 @@
-# 🧠 Developer Second Brain & Engineering Vault
+# 🧰 Developer Survival Kit
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br>
 
-[![Status: Active](https://img.shields.io/badge/Status-Active%20%7C%20Living%20Vault-00C853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SagarBiswas-MultiHAT/second-brain)
+[![Status: Active](https://img.shields.io/badge/Status-Active%20%7C%20Survival%20Kit-00C853?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit)
 [![Cloud Spend: $0 Forever](https://img.shields.io/badge/Cloud%20Spend-%240%20Forever-00B894?style=for-the-badge&logo=googlecloud&logoColor=white)](#-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026)
 [![License Guide: Complete](https://img.shields.io/badge/Guide-Open--Source%20Licenses-0984E3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#-pillar-2-the-ultimate-guide-to-github--open-source-licenses)
 [![Security: GPG Verified](https://img.shields.io/badge/Security-GPG%20Commit%20Signing-critical?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing)
@@ -18,7 +18,7 @@
 [![Docs License: CC BY-SA 4.0](https://img.shields.io/badge/Docs%20License-CC%20BY--SA%204.0-blue.svg)](./LICENSE-DOCS)
 [![Anti-Theft: DMCA & GPG Protected](https://img.shields.io/badge/Anti--Theft-DMCA%20%26%20GPG%20Protected-critical.svg)](./LICENSE-DOCS#3-mandatory-attribution--anti-theft-requirements)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=github)](./.github/CONTRIBUTING.md)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square)](https://github.com/SagarBiswas-MultiHAT/second-brain/commits/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-success?style=flat-square)](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/commits/main)
 [![Authored By: Sagar Biswas](https://img.shields.io/badge/Author-Sagar%20Biswas%20(@SagarBiswas--MultiHAT)-blue?style=flat-square&logo=github)](https://github.com/SagarBiswas-MultiHAT)
 
 <br>
@@ -30,7 +30,7 @@
 [GPG Signing Guide](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing) •
 [PRISM Routine](#-pillar-4-prism-study--execution-engine-v3) •
 [Quick Navigator](#-quick-navigator-which-guide-do-you-need) •
-[All Files](#-complete-vault-catalog) •
+[All Files](#-complete-survival-kit-catalog) •
 [Dual Licensing](#-licensing-intellectual-property--anti-theft-terms) •
 [Contributing](./.github/CONTRIBUTING.md)
 
@@ -38,9 +38,9 @@
 
 ---
 
-## 🌟 What is the Developer Second Brain?
+## 🌟 What is the Developer Survival Kit?
 
-The **Developer Second Brain** (formerly *Research Vault*) is a curated, open-source knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to four of the most critical questions faced by developers, students, and independent creators:
+The **Developer Survival Kit** is a curated, open-source battle-tested knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to four of the most critical questions faced by developers, students, and independent creators:
 
 1. **How do I host web apps and portfolios 24/7 without paying $20 to $50 monthly or dealing with slow 50-second cold starts?**
 2. **Which open-source license actually protects my code and roadmaps from being stolen or repackaged into paid courses, while maximizing GitHub stars?**
@@ -54,7 +54,7 @@ Every guide in this repository is built on empirical testing, verified against l
 <a id="-quick-navigator-which-guide-do-you-need"></a><a id="quick-navigator-which-guide-do-you-need"></a>
 ## 🧭 Quick Navigator: Which Guide Do You Need?
 
-If you are new to the vault, use this 10-second directory to find the exact playbook for your current challenge:
+If you are new to this survival kit, use this 10-second directory to find the exact playbook for your current challenge:
 
 | Your Current Goal or Question | Recommended Playbook | What You Will Learn | Reading Time |
 | :--- | :--- | :--- | :---: |
@@ -66,8 +66,8 @@ If you are new to the vault, use this 10-second directory to find the exact play
 
 ---
 
-<a id="-complete-vault-catalog"></a><a id="complete-vault-catalog"></a>
-## 📂 Complete Vault Catalog
+<a id="-complete-survival-kit-catalog"></a><a id="complete-survival-kit-catalog"></a><a id="-complete-vault-catalog"></a><a id="complete-vault-catalog"></a>
+## 📂 Complete Survival Kit Catalog
 
 All research guides, execution routines, and documents are stored in the repository root for immediate access:
 
@@ -87,12 +87,12 @@ All research guides, execution routines, and documents are stored in the reposit
 
 ---
 
-## 🗺️ Architectural Map of the Vault
+## 🗺️ Architectural Map of the Survival Kit
 
 ```mermaid
 %%{init: {'flowchart': {'wrappingWidth': 170}}}%%
 flowchart TD
-    Vault["🧠 Developer Second Brain & Engineering Vault<br/><code>SagarBiswas-MultiHAT/second-brain</code>"]
+    Vault["🧰 Developer Survival Kit<br/><code>SagarBiswas-MultiHAT/developer-survival-kit</code>"]
 
     Vault --> Cloud["🌐 Cloud & Web Architecture"]
     Vault --> Legal["⚖️ Open-Source Legal & Licensing"]
@@ -124,7 +124,7 @@ flowchart TD
 
 ## 📚 Deep Dives: The Four Flagship Research Pillars
 
-<a id="-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a>
+<a id="-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a><a id="pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a>
 ### 🌐 Pillar 1: The Complete Guide to Free Full-Stack Web Hosting (2026)
 
 *File:* [`free-hosting-plan.md`](./free-hosting-plan.md)  
@@ -154,7 +154,7 @@ Most developers spend $15 to $50 per month hosting simple portfolio projects, or
 
 ---
 
-<a id="-pillar-2-the-ultimate-guide-to-github--open-source-licenses"></a>
+<a id="-pillar-2-the-ultimate-guide-to-github--open-source-licenses"></a><a id="pillar-2-the-ultimate-guide-to-github--open-source-licenses"></a>
 ### ⚖️ Pillar 2: The Ultimate Guide to GitHub & Open-Source Licenses
 
 *File:* [`github_open_source_licenses_guide.md`](./github_open_source_licenses_guide.md)  
@@ -174,7 +174,7 @@ Many developers believe making a repository "Public" automatically makes it open
 
 ---
 
-<a id="-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing"></a>
+<a id="-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing"></a><a id="pillar-3-the-ultimate-guide-to-github-gpg-commit-signing"></a>
 ### 🔐 Pillar 3: The Ultimate Guide to GitHub GPG Commit Signing
 
 *File:* [`github_gpg_commit_signing_guide.md`](./github_gpg_commit_signing_guide.md)  
@@ -193,7 +193,7 @@ Did you know that Git trusts whatever name and email a user types into their ter
 
 ---
 
-<a id="-pillar-4-prism-study--execution-engine-v3"></a>
+<a id="-pillar-4-prism-study--execution-engine-v3"></a><a id="pillar-4-prism-study--execution-engine-v3"></a>
 ### ⚡ Pillar 4: PRISM Study & Execution Engine v3
 
 *File:* [`Routine_Study_v3.md`](./Routine_Study_v3.md)  
@@ -226,7 +226,7 @@ All guides, benchmarks, and blueprints published in this repository adhere to fo
 
 Contributions that improve accuracy, add verified benchmark data, or expand coverage to new hosting platforms and tools are welcome.
 
-- **Found an outdated metric or broken link?** Open a [GitHub Issue](https://github.com/SagarBiswas-MultiHAT/second-brain/issues).
+- **Found an outdated metric or broken link?** Open a [GitHub Issue](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/issues).
 - **Want to contribute a new benchmark or guide?** Review our [Contributing Guidelines](./.github/CONTRIBUTING.md) and submit a Pull Request.
 
 ---
@@ -244,7 +244,7 @@ This repository operates under a formal **Dual-Licensing Architecture** (detaile
 ### 🛡️ Anti-Theft & Course Repackaging Protections
 
 - **No Paywalls or Course Repackaging:** Under the `ShareAlike` clause of [`LICENSE-DOCS`](./LICENSE-DOCS), no educational platform, bootcamp, or individual may repackage these research guides into closed PDFs, paid video courses, or private membership portals. Any adaptation must remain open and free under CC BY-SA 4.0.
-- **Mandatory Canonical Attribution:** Any blog, YouTube video, newsletter, or documentation citing or adapting this repository must prominently credit **Sagar Biswas (@SagarBiswas-MultiHAT)** and provide a direct clickable link to `https://github.com/SagarBiswas-MultiHAT/second-brain`.
+- **Mandatory Canonical Attribution:** Any blog, YouTube video, newsletter, or documentation citing or adapting this repository must prominently credit **Sagar Biswas (@SagarBiswas-MultiHAT)** and provide a direct clickable link to `https://github.com/SagarBiswas-MultiHAT/developer-survival-kit`.
 - **Automatic License Termination & DMCA:** Erasing author names, stripping license files, or re-uploading uncredited copies violates copyright law. Under Section 6(a) of CC BY-SA 4.0, permissions terminate automatically, subjecting infringing repositories to immediate DMCA takedown notices backed by GPG cryptographic commit timestamps.
 - **Retroactive Scope:** This licensing framework applies retroactively and prospectively across all historical commits, prior releases, and current versions of this repository authored by Sagar Biswas.
 

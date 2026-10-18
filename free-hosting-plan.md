@@ -254,10 +254,10 @@ With this architecture:
 <div align="center">
 
 **Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
-*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
+*Part of the [Developer Survival Kit](./README.md)*  
 ⭐ **Star this repository** to help more developers deploy 24/7 web apps for $0!
 
-[Back to Top](#the-complete-guide-to-free-full-stack-web-hosting) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
+[Back to Top](#the-complete-guide-to-free-full-stack-web-hosting) • [Survival Kit Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 

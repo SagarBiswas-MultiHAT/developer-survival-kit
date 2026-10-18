@@ -415,11 +415,12 @@ Did this guide clear up the confusion around GitHub and open-source licensing?
 <br>
 
 **Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
+*Part of the [Developer Survival Kit](./README.md)*  
 🌐 [multihat.dev](https://multihat.dev)
 
 *Build Fearlessly. License Strategically. Protect Your Craft.*
 
-[Back to Top](#-the-ultimate-guide-to-github--open-source-licenses) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
+[Back to Top](#-the-ultimate-guide-to-github--open-source-licenses) • [Survival Kit Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 

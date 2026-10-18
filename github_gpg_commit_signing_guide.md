@@ -436,10 +436,10 @@ Found this guide helpful?
 <div align="center">
 
 **Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
-*Part of the [Developer Second Brain & Engineering Vault](./README.md)*  
+*Part of the [Developer Survival Kit](./README.md)*  
 *Stay Secure. Keep Shipping. Always Sign Your Commits.*
 
-[Back to Top](#-the-ultimate-guide-to-github-gpg-commit-signing) • [Vault Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
+[Back to Top](#-the-ultimate-guide-to-github-gpg-commit-signing) • [Survival Kit Catalog (README)](./README.md) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 
