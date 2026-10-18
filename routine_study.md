@@ -426,7 +426,7 @@ I also want to dedicate enough time to thinking, planning, and building meaningf
 
 **Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
 *Part of the [Developer Survival Kit](./README.md)*  
-[Survival Kit Catalog (README)](./README.md) • [Bengali Edition](./Routine_Study_v3_Bangla.docx) • [Word Edition](./Routine_Study_v3.docx) • [Contributing](./.github/CONTRIBUTING.md)
+[Survival Kit Catalog (README)](./README.md) • [Bengali Edition](./routine_study_(Bangla).docx) • [Word Edition](./routine_study.docx) • [Contributing](./.github/CONTRIBUTING.md)
 
 </div>
 

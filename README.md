@@ -61,8 +61,8 @@ If you are new to this survival kit, use this 10-second directory to find the ex
 | 🚀 **"I want to host my full-stack app for $0"** | [free-hosting-plan.md](./free-hosting-plan.md) | 9 platforms benchmarked (Render, Koyeb, Vercel, OCI), 24/7 keep-alive secrets, zero cold starts, and hosting 4+ live projects for $0 forever. | ~15 min |
 | ⚖️ **"I want to pick the right open-source license"** | [github_open_source_licenses_guide.md](./github_open_source_licenses_guide.md) | Plain-English comparison of MIT, Apache 2.0, GPL, and CC BY-SA 4.0. Dual-licensing strategy to protect code + roadmaps in one repo. | ~20 min |
 | 🔐 **"I want the green Verified badge on my commits"** | [github_gpg_commit_signing_guide.md](./github_gpg_commit_signing_guide.md) | How Git identity spoofing works, 5-minute Ed25519 GPG key setup, automated signing, and supply-chain defense. | ~12 min |
-| 📚 **"I need a high-intensity study & work routine"** | [Routine_Study_v3.md](./Routine_Study_v3.md) | The PRISM methodology: 7h sleep anchor, 9h deep work, 5-subject cyclic rotation (~40h/subject), and a 4-stage cybersecurity progression. | ~15 min |
-| 🥗 **"I want a daily nutrition plan for high focus"** | [Routine_Eating.md](./Routine_Eating.md) | দৈনিক খাবারের রুটিন: Personal daily nutritional discipline plan in Bengali, designed to sustain energy for 9+ hours of deep technical work. | ~8 min |
+| 📚 **"I need a high-intensity study & work routine"** | [routine_study.md](./routine_study.md) | The PRISM methodology: 7h sleep anchor, 9h deep work, 5-subject cyclic rotation (~40h/subject), and a 4-stage cybersecurity progression. | ~15 min |
+| 🥗 **"I want a daily nutrition plan for high focus"** | [routine_eating.md](./routine_eating.md) | দৈনিক খাবারের রুটিন: Personal daily nutritional discipline plan in Bengali, designed to sustain energy for 9+ hours of deep technical work. | ~8 min |
 
 ---
 
@@ -76,11 +76,11 @@ All research guides, execution routines, and documents are stored in the reposit
 | [free-hosting-plan.md](./free-hosting-plan.md) | 🌐 Cloud Architecture | Full-Stack Developers, CS Students | Free full-stack hosting (2026), 9-platform breakdown, 24/7 keep-alive pings, zero cold starts |
 | [github_open_source_licenses_guide.md](./github_open_source_licenses_guide.md) | ⚖️ Open-Source Legal | Repo Authors, Writers, Researchers | Plain-English license guide, MIT vs Apache vs GPL vs CC BY-SA, dual-licensing, DMCA takedowns |
 | [github_gpg_commit_signing_guide.md](./github_gpg_commit_signing_guide.md) | 🔐 Security & Identity | Software Engineers, Git Users | Git identity spoofing defense, Ed25519 GPG key setup, GitHub green Verified commit badge |
-| [Routine_Study_v3.md](./Routine_Study_v3.md) | 📅 Systems & Routines | Engineering Students, Researchers | PRISM Study Routine v3: 9h daily deep work, 5-subject rotation, cybersecurity roadmap |
-| [Routine_Study_v3.docx](./Routine_Study_v3.docx) | 📄 Document | Engineering Students | Formatted Word document edition of the PRISM Study Routine v3 |
-| [Routine_Study_v3_Bangla.docx](./Routine_Study_v3_Bangla.docx) | 📄 Document (Bengali) | Engineering Students | Bengali translation of the PRISM Study Routine v3 |
-| [Routine_Eating.md](./Routine_Eating.md) | 🥗 Cognitive Health | Independent Learners | দৈনিক খাবারের রুটিন: Daily nutritional fuel plan for mental focus and endurance |
-| [Routine_Eating.docx](./Routine_Eating.docx) | 📄 Document (Bengali) | Independent Learners | Formatted Word document edition of the daily nutrition routine |
+| [routine_study.md](./routine_study.md) | 📅 Systems & Routines | Engineering Students, Researchers | PRISM Study Routine v3: 9h daily deep work, 5-subject rotation, cybersecurity roadmap |
+| [routine_study.docx](./routine_study.docx) | 📄 Document | Engineering Students | Formatted Word document edition of the PRISM Study Routine v3 |
+| [routine_study_(Bangla).docx](./routine_study_(Bangla).docx) | 📄 Document (Bengali) | Engineering Students | Bengali translation of the PRISM Study Routine v3 |
+| [routine_eating.md](./routine_eating.md) | 🥗 Cognitive Health | Independent Learners | দৈনিক খাবারের রুটিন: Daily nutritional fuel plan for mental focus and endurance |
+| [routine_eating.docx](./routine_eating.docx) | 📄 Document (Bengali) | Independent Learners | Formatted Word document edition of the daily nutrition routine |
 | [LICENSE](./LICENSE) | ⚖️ Software License | Developers, Open-Source Users | Permissive MIT License covering all executable code, scripts, curl snippets, and configurations |
 | [LICENSE-DOCS](./LICENSE-DOCS) | 🛡️ Content License | Writers, Educators, Researchers | CC BY-SA 4.0 license covering all research notes, guides, roadmaps, and diagrams with anti-theft terms |
 | [.github/CONTRIBUTING.md](./.github/CONTRIBUTING.md) | 🤝 Community | Open-Source Contributors | Guidelines for submitting data corrections, regional research, and new playbooks |
@@ -112,9 +112,9 @@ flowchart TD
     Sec --> F_GPG["📄 <code>github_gpg_commit_signing_guide.md</code><br/>▪ Git Identity Spoofing Flaw Explained Simply<br/>▪ Ed25519 GnuPG Key Setup across Windows/macOS/Linux<br/>▪ Vigilant Mode & Green GitHub Verified Commit Badge"]
 
     %% Execution Branch
-    Execution --> F_Study["📅 <code>Routine_Study_v3.md</code><br/>▪ PRISM Daily Engine (7h Sleep Anchor + 9h Deep Work)<br/>▪ 5-Subject Cyclic Rotation (~40h Immersion per Topic)<br/>▪ 4-Stage Practical Cybersecurity Roadmap"]
-    Execution --> F_StudyDocs["📑 Companion Study Documents<br/>▪ <code>Routine_Study_v3.docx</code> (Formatted Word Edition)<br/>▪ <code>Routine_Study_v3_Bangla.docx</code> (Bengali Edition)"]
-    Execution --> F_Eating["🥗 <code>Routine_Eating.md</code> & <code>Routine_Eating.docx</code><br/>▪ দৈনিক খাবারের রুটিন: High-Focus Daily Nutrition Plan<br/>▪ Sustained Cognitive Energy for 9+ Hours Deep Technical Work"]
+    Execution --> F_Study["📅 <code>routine_study.md</code><br/>▪ PRISM Daily Engine (7h Sleep Anchor + 9h Deep Work)<br/>▪ 5-Subject Cyclic Rotation (~40h Immersion per Topic)<br/>▪ 4-Stage Practical Cybersecurity Roadmap"]
+    Execution --> F_StudyDocs["📑 Companion Study Documents<br/>▪ <code>routine_study.docx</code> (Formatted Word Edition)<br/>▪ <code>routine_study_(Bangla).docx</code> (Bengali Edition)"]
+    Execution --> F_Eating["🥗 <code>routine_eating.md</code> & <code>routine_eating.docx</code><br/>▪ দৈনিক খাবারের রুটিন: High-Focus Daily Nutrition Plan<br/>▪ Sustained Cognitive Energy for 9+ Hours Deep Technical Work"]
 
     %% Governance Branch
     Gov --> F_Contrib["🤝 <code>.github/CONTRIBUTING.md</code><br/>▪ Verified Data Corrections, New Sources & PR Protocols<br/>▪ Regional Audience Addendums (BST / International)"]
@@ -196,7 +196,7 @@ Did you know that Git trusts whatever name and email a user types into their ter
 <a id="-pillar-4-prism-study--execution-engine-v3"></a><a id="pillar-4-prism-study--execution-engine-v3"></a>
 ### ⚡ Pillar 4: PRISM Study & Execution Engine v3
 
-*File:* [`Routine_Study_v3.md`](./Routine_Study_v3.md)  
+*File:* [`routine_study.md`](./routine_study.md)  
 *Audience:* Computer Science Students, Self-Taught Engineers, Security Researchers
 
 A battle-tested 2-month advance preparation routine for engineering students and self-directed learners who need to master high-density technical curriculums while maintaining peak mental endurance.
@@ -207,7 +207,7 @@ A battle-tested 2-month advance preparation routine for engineering students and
 * **Cybersecurity Progression Pipeline:** A 4-stage practical progression covering Web Application Security, Binary Exploitation, Network Reconnaissance, and Bug Bounty hunting.
 * **Microtask Protocol:** Breaking overwhelming study topics into actionable 60-minute Pomodoro sprints paired with daily Deep Thinking synthesis hours.
 
-👉 **[Read the Full PRISM Study Routine →](./Routine_Study_v3.md)**
+👉 **[Read the Full PRISM Study Routine →](./routine_study.md)**
 
 ---
 
