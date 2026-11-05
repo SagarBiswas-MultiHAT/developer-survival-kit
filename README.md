@@ -11,6 +11,7 @@
 [![License Guide: Complete](https://img.shields.io/badge/Guide-Open--Source%20Licenses-0984E3?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#-pillar-2-the-ultimate-guide-to-github--open-source-licenses)
 [![Security: GPG Verified](https://img.shields.io/badge/Security-GPG%20Commit%20Signing-critical?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing)
 [![PRISM Engine: v3.0](https://img.shields.io/badge/PRISM%20Engine-v3.0-6C5CE7?style=for-the-badge&logo=blueprint&logoColor=white)](#-pillar-4-prism-study--execution-engine-v3)
+[![LinkedIn Virality: Global](https://img.shields.io/badge/LinkedIn%20Virality-Global%20Algorithm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-pillar-5-the-ultimate-guide-to-linkedin-global-virality)
 
 <br>
 
@@ -29,6 +30,7 @@
 [License Guide](#-pillar-2-the-ultimate-guide-to-github--open-source-licenses) •
 [GPG Signing Guide](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing) •
 [PRISM Routine](#-pillar-4-prism-study--execution-engine-v3) •
+[LinkedIn Virality](#-pillar-5-the-ultimate-guide-to-linkedin-global-virality) •
 [Quick Navigator](#-quick-navigator-which-guide-do-you-need) •
 [All Files](#-complete-survival-kit-catalog) •
 [Dual Licensing](#-licensing-intellectual-property--anti-theft-terms) •
@@ -40,12 +42,13 @@
 
 ## 🌟 What is the Developer Survival Kit?
 
-The **Developer Survival Kit** is a curated, open-source battle-tested knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to four of the most critical questions faced by developers, students, and independent creators:
+The **Developer Survival Kit** is a curated, open-source battle-tested knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to five of the most critical questions faced by developers, students, and independent creators:
 
 1. **How do I host web apps and portfolios 24/7 without paying $20 to $50 monthly or dealing with slow 50-second cold starts?**
 2. **Which open-source license actually protects my code and roadmaps from being stolen or repackaged into paid courses, while maximizing GitHub stars?**
 3. **How do I prevent strangers from forging my Git commits and push cryptographically verified code with the green GitHub badge?**
 4. **How do I structure a 9+ hour daily study and technical execution schedule to master complex computer science topics and cybersecurity in 60 days?**
+5. **How do I share technical projects on LinkedIn to trigger global virality, overcome local timezone traps from South Asia (GMT+6), and drive organic stars and traffic to my GitHub repositories?**
 
 Every guide in this repository is built on empirical testing, verified against live platform documentation, and updated continuously for the 2026 developer ecosystem.
 
@@ -62,6 +65,7 @@ If you are new to this survival kit, use this 10-second directory to find the ex
 | ⚖️ **"I want to pick the right open-source license"** | [github_open_source_licenses_guide.md](./github_open_source_licenses_guide.md) | Plain-English comparison of MIT, Apache 2.0, GPL, and CC BY-SA 4.0. Dual-licensing strategy to protect code + roadmaps in one repo. | ~20 min |
 | 🔐 **"I want the green Verified badge on my commits"** | [github_gpg_commit_signing_guide.md](./github_gpg_commit_signing_guide.md) | How Git identity spoofing works, 5-minute Ed25519 GPG key setup, automated signing, and supply-chain defense. | ~12 min |
 | 📚 **"I need a high-intensity study & work routine"** | [routine_study.md](./routine_study.md) | The PRISM methodology: 7h sleep anchor, 9h deep work, 5-subject cyclic rotation (~40h/subject), and a 4-stage cybersecurity progression. | ~15 min |
+| 🌍 **"I want my technical projects to go viral globally"** | [linkedin_global_virality_guide.md](./linkedin_global_virality_guide.md) | LinkedIn algorithm breakdown (Dwell Time, comment threads), overcoming the GMT+6 timezone trap, first-comment funnel, and driving GitHub stars. | ~15 min |
 | 🥗 **"I want a daily nutrition plan for high focus"** | [routine_eating.md](./routine_eating.md) | দৈনিক খাবারের রুটিন: Personal daily nutritional discipline plan in Bengali, designed to sustain energy for 9+ hours of deep technical work. | ~8 min |
 
 ---
@@ -79,6 +83,7 @@ All research guides, execution routines, and documents are stored in the reposit
 | [routine_study.md](./routine_study.md) | 📅 Systems & Routines | Engineering Students, Researchers | PRISM Study Routine v3: 9h daily deep work, 5-subject rotation, cybersecurity roadmap |
 | [routine_study.docx](./routine_study.docx) | 📄 Document | Engineering Students | Formatted Word document edition of the PRISM Study Routine v3 |
 | [routine_study_(Bangla).docx](./routine_study_(Bangla).docx) | 📄 Document (Bengali) | Engineering Students | Bengali translation of the PRISM Study Routine v3 |
+| [linkedin_global_virality_guide.md](./linkedin_global_virality_guide.md) | 🌍 Global Growth & Branding | Developers, Students, Creators | LinkedIn algorithm mastery, GMT+6 to global posting matrix, Golden Hour execution, GitHub traffic funnel |
 | [routine_eating.md](./routine_eating.md) | 🥗 Cognitive Health | Independent Learners | দৈনিক খাবারের রুটিন: Daily nutritional fuel plan for mental focus and endurance |
 | [routine_eating.docx](./routine_eating.docx) | 📄 Document (Bengali) | Independent Learners | Formatted Word document edition of the daily nutrition routine |
 | [LICENSE](./LICENSE) | ⚖️ Software License | Developers, Open-Source Users | Permissive MIT License covering all executable code, scripts, curl snippets, and configurations |
@@ -97,6 +102,7 @@ flowchart TD
     Vault --> Cloud["🌐 Cloud & Web Architecture"]
     Vault --> Legal["⚖️ Open-Source Legal & Licensing"]
     Vault --> Sec["🔐 Identity & Cryptographic Security"]
+    Vault --> Growth["🌍 Global Distribution & Visibility"]
     Vault --> Execution["⚡ High-Performance Systems & Routines"]
     Vault --> Gov["🤝 Community & Governance"]
 
@@ -111,6 +117,9 @@ flowchart TD
     %% Security Branch
     Sec --> F_GPG["📄 <code>github_gpg_commit_signing_guide.md</code><br/>▪ Git Identity Spoofing Flaw Explained Simply<br/>▪ Ed25519 GnuPG Key Setup across Windows/macOS/Linux<br/>▪ Vigilant Mode & Green GitHub Verified Commit Badge"]
 
+    %% Growth Branch
+    Growth --> F_LinkedIn["📄 <code>linkedin_global_virality_guide.md</code><br/>▪ 4-Stage Algorithm Pipeline & 5 Ranking Signals<br/>▪ GMT+6 to Global Time Matrix (BD, EU, US East)<br/>▪ 45-Min Routine, First-Comment Funnel & GitHub Traffic"]
+
     %% Execution Branch
     Execution --> F_Study["📅 <code>routine_study.md</code><br/>▪ PRISM Daily Engine (7h Sleep Anchor + 9h Deep Work)<br/>▪ 5-Subject Cyclic Rotation (~40h Immersion per Topic)<br/>▪ 4-Stage Practical Cybersecurity Roadmap"]
     Execution --> F_StudyDocs["📑 Companion Study Documents<br/>▪ <code>routine_study.docx</code> (Formatted Word Edition)<br/>▪ <code>routine_study_(Bangla).docx</code> (Bengali Edition)"]
@@ -122,7 +131,7 @@ flowchart TD
 
 ---
 
-## 📚 Deep Dives: The Four Flagship Research Pillars
+## 📚 Deep Dives: The Five Flagship Research Pillars
 
 <a id="-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a><a id="pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a>
 ### 🌐 Pillar 1: The Complete Guide to Free Full-Stack Web Hosting (2026)
@@ -208,6 +217,26 @@ A battle-tested 2-month advance preparation routine for engineering students and
 * **Microtask Protocol:** Breaking overwhelming study topics into actionable 60-minute Pomodoro sprints paired with daily Deep Thinking synthesis hours.
 
 👉 **[Read the Full PRISM Study Routine →](./routine_study.md)**
+
+---
+
+<a id="-pillar-5-the-ultimate-guide-to-linkedin-global-virality"></a><a id="pillar-5-the-ultimate-guide-to-linkedin-global-virality"></a>
+### 🌍 Pillar 5: The Ultimate Guide to LinkedIn Global Virality
+
+*File:* [`linkedin_global_virality_guide.md`](./linkedin_global_virality_guide.md)  
+*Audience:* Software Engineers, Open-Source Maintainers, Researchers, Students, Tech Creators
+
+Building impressive projects is only half the battle. If nobody discovers your work, your repositories remain at zero stars, your articles go unread, and international recruiters never find you. This playbook reveals how LinkedIn's distribution algorithm works and provides a copy-paste strategy to overcome local timezone traps (such as GMT+6 in Bangladesh) to reach engineering leaders in the US, Europe, and Asia.
+
+#### Key Highlights & Blueprints
+* **The 4-Stage Distribution Pipeline:** How LinkedIn evaluates every post from automated spam checks to out-of-network viral amplification.
+* **The 5 Weighted Ranking Signals:** Why Dwell Time (10/10) and comment thread depth (9.5/10) dramatically outperform passive "Likes" (4/10).
+* **The Global Posting Time Matrix:** Exact scheduling windows from Dhaka (GMT+6) to catch Bangladesh, India, Europe, and the US East Coast active simultaneously (Slot 1: 7:30 PM - 8:30 PM BST).
+* **The 45-Minute Warm-Up & Reply Engine:** How to prime the algorithm 15 minutes before posting and use counter-questions during the Golden Hour to double reach.
+* **The First-Comment Strategy:** Preserving maximum dwell time while routing global traffic directly to your GitHub repositories.
+* **Edit & Delete Traps:** Understanding the silent reach penalties of editing captions or reposting duplicate text.
+
+👉 **[Read the Full LinkedIn Global Virality Guide →](./linkedin_global_virality_guide.md)**
 
 ---
 

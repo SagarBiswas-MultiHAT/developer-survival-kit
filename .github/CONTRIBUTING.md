@@ -99,3 +99,15 @@ New notes should follow this header format:
 ## Questions?
 
 Open an issue or start a [Discussion](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/discussions) - feedback threads, regional data shares, and methodology debates are all fair game.
+
+---
+
+<div align="center">
+
+**Authored by [Sagar Biswas (@SagarBiswas-MultiHAT)](https://github.com/SagarBiswas-MultiHAT)**  
+*Part of the [Developer Survival Kit](../README.md)*  
+🌐 [multihat.dev](https://multihat.dev)
+
+[Back to Top](#contributing-to-developer-survival-kit) • [Survival Kit Catalog (README)](../README.md) • [Report an Issue](https://github.com/SagarBiswas-MultiHAT/developer-survival-kit/issues)
+
+</div>
