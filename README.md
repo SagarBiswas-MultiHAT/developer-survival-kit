@@ -12,6 +12,7 @@
 [![Security: GPG Verified](https://img.shields.io/badge/Security-GPG%20Commit%20Signing-critical?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing)
 [![PRISM Engine: v3.0](https://img.shields.io/badge/PRISM%20Engine-v3.0-6C5CE7?style=for-the-badge&logo=blueprint&logoColor=white)](#-pillar-4-prism-study--execution-engine-v3)
 [![LinkedIn Virality: Global](https://img.shields.io/badge/LinkedIn%20Virality-Global%20Algorithm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#-pillar-5-the-ultimate-guide-to-linkedin-global-virality)
+[![Security Lab: WSL2 + Kali](https://img.shields.io/badge/Security%20Lab-WSL2%20%2B%20Kali-blueviolet?style=for-the-badge&logo=kalilinux&logoColor=white)](#-pillar-6-the-complete-guide-to-wsl2-kali-linux--win-kex-gui)
 [![Sponsor SagarBiswas-MultiHAT on Polar.sh](https://img.shields.io/badge/Sponsor-Polar.sh-0062FF?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://buy.polar.sh/polar_cl_I7DT5UQNUs1Qjb4VrFYOiRA2nkb3RVVUJCnjr3o5SGK)
 
 <br>
@@ -32,6 +33,7 @@
 [GPG Signing Guide](#-pillar-3-the-ultimate-guide-to-github-gpg-commit-signing) •
 [PRISM Routine](#-pillar-4-prism-study--execution-engine-v3) •
 [LinkedIn Virality](#-pillar-5-the-ultimate-guide-to-linkedin-global-virality) •
+[Kali Linux Lab](#-pillar-6-the-complete-guide-to-wsl2-kali-linux--win-kex-gui) •
 [Quick Navigator](#-quick-navigator-which-guide-do-you-need) •
 [All Files](#-complete-survival-kit-catalog) •
 [Dual Licensing](#-licensing-intellectual-property--anti-theft-terms) •
@@ -44,13 +46,14 @@
 
 ## 🌟 What is the Developer Survival Kit?
 
-The **Developer Survival Kit** is a curated, open-source battle-tested knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to five of the most critical questions faced by developers, students, and independent creators:
+The **Developer Survival Kit** is a curated, open-source battle-tested knowledge repository authored by **Sagar Biswas ([@SagarBiswas-MultiHAT](https://github.com/SagarBiswas-MultiHAT))**. It provides clear, actionable answers to six of the most critical questions faced by developers, students, and independent creators:
 
 1. **How do I host web apps and portfolios 24/7 without paying $20 to $50 monthly or dealing with slow 50-second cold starts?**
 2. **Which open-source license actually protects my code and roadmaps from being stolen or repackaged into paid courses, while maximizing GitHub stars?**
 3. **How do I prevent strangers from forging my Git commits and push cryptographically verified code with the green GitHub badge?**
 4. **How do I structure a 9+ hour daily study and technical execution schedule to master complex computer science topics and cybersecurity in 60 days?**
 5. **How do I share technical projects on LinkedIn to trigger global virality, overcome local timezone traps from South Asia (GMT+6), and drive organic stars and traffic to my GitHub repositories?**
+6. **How do I build a bare-metal, GPU-accelerated Kali Linux penetration testing lab on Windows using WSL2 and Win-KeX without the heavy performance lag of traditional virtual machines?**
 
 Every guide in this repository is built on empirical testing, verified against live platform documentation, and updated continuously for the 2026 developer ecosystem.
 
@@ -68,6 +71,7 @@ If you are new to this survival kit, use this 10-second directory to find the ex
 | 🔐 **"I want the green Verified badge on my commits"** | [github_gpg_commit_signing_guide.md](./github_gpg_commit_signing_guide.md) | How Git identity spoofing works, 5-minute Ed25519 GPG key setup, automated signing, and supply-chain defense. | ~12 min |
 | 📚 **"I need a high-intensity study & work routine"** | [routine_study.md](./routine_study.md) | The PRISM methodology: 7h sleep anchor, 9h deep work, 5-subject cyclic rotation (~40h/subject), and a 4-stage cybersecurity progression. | ~15 min |
 | 🌍 **"I want my technical projects to go viral globally"** | [linkedin_global_virality_guide.md](./linkedin_global_virality_guide.md) | LinkedIn algorithm breakdown (Dwell Time, comment threads), overcoming the GMT+6 timezone trap, first-comment funnel, and driving GitHub stars. | ~15 min |
+| 🐉 **"I want a high-performance Kali security lab on Windows"** | [WSL2-Kali-Setup-Guide.md](./WSL2-Kali-Setup-Guide.md) | Zero-overhead WSL2 setup, Win-KeX GUI (Window, Seamless, ESM), vGPU acceleration, debconf prompts, and TigerVNC 10053 fixes. | ~15 min |
 | 🥗 **"I want a daily nutrition plan for high focus"** | [routine_eating.md](./routine_eating.md) | দৈনিক খাবারের রুটিন: Personal daily nutritional discipline plan in Bengali, designed to sustain energy for 9+ hours of deep technical work. | ~8 min |
 
 ---
@@ -86,6 +90,7 @@ All research guides, execution routines, and documents are stored in the reposit
 | [routine_study.docx](./routine_study.docx) | 📄 Document | Engineering Students | Formatted Word document edition of the PRISM Study Routine v3 |
 | [routine_study_(Bangla).docx](./routine_study_(Bangla).docx) | 📄 Document (Bengali) | Engineering Students | Bengali translation of the PRISM Study Routine v3 |
 | [linkedin_global_virality_guide.md](./linkedin_global_virality_guide.md) | 🌍 Global Growth & Branding | Developers, Students, Creators | LinkedIn algorithm mastery, GMT+6 to global posting matrix, Golden Hour execution, GitHub traffic funnel |
+| [WSL2-Kali-Setup-Guide.md](./WSL2-Kali-Setup-Guide.md) | 🐉 Security Environments | Security Researchers, Pen Testers, Students | WSL2 + Kali Linux + Win-KeX GUI, vGPU/CUDA acceleration, debconf installer prompts, TigerVNC error recovery |
 | [routine_eating.md](./routine_eating.md) | 🥗 Cognitive Health | Independent Learners | দৈনিক খাবারের রুটিন: Daily nutritional fuel plan for mental focus and endurance |
 | [routine_eating.docx](./routine_eating.docx) | 📄 Document (Bengali) | Independent Learners | Formatted Word document edition of the daily nutrition routine |
 | [LICENSE](./LICENSE) | ⚖️ Software License | Developers, Open-Source Users | Permissive MIT License covering all executable code, scripts, curl snippets, and configurations |
@@ -105,6 +110,7 @@ flowchart TD
     Vault --> Legal["⚖️ Open-Source Legal & Licensing"]
     Vault --> Sec["🔐 Identity & Cryptographic Security"]
     Vault --> Growth["🌍 Global Distribution & Visibility"]
+    Vault --> Lab["🐉 Security Labs & Environments"]
     Vault --> Execution["⚡ High-Performance Systems & Routines"]
     Vault --> Gov["🤝 Community & Governance"]
 
@@ -122,6 +128,9 @@ flowchart TD
     %% Growth Branch
     Growth --> F_LinkedIn["📄 <code>linkedin_global_virality_guide.md</code><br/>▪ 4-Stage Algorithm Pipeline & 5 Ranking Signals<br/>▪ GMT+6 to Global Time Matrix (BD, EU, US East)<br/>▪ 45-Min Routine, First-Comment Funnel & GitHub Traffic"]
 
+    %% Lab Branch
+    Lab --> F_Kali["📄 <code>WSL2-Kali-Setup-Guide.md</code><br/>▪ WSL2 Bare-Metal Virtualization & vGPU Acceleration<br/>▪ Win-KeX Desktop Modes (Window, Seamless, ESM)<br/>▪ TigerVNC 10053 Recovery & Debconf Installer Answers"]
+
     %% Execution Branch
     Execution --> F_Study["📅 <code>routine_study.md</code><br/>▪ PRISM Daily Engine (7h Sleep Anchor + 9h Deep Work)<br/>▪ 5-Subject Cyclic Rotation (~40h Immersion per Topic)<br/>▪ 4-Stage Practical Cybersecurity Roadmap"]
     Execution --> F_StudyDocs["📑 Companion Study Documents<br/>▪ <code>routine_study.docx</code> (Formatted Word Edition)<br/>▪ <code>routine_study_(Bangla).docx</code> (Bengali Edition)"]
@@ -133,7 +142,7 @@ flowchart TD
 
 ---
 
-## 📚 Deep Dives: The Five Flagship Research Pillars
+## 📚 Deep Dives: The Six Flagship Research Pillars
 
 <a id="-pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a><a id="pillar-1-the-complete-guide-to-free-full-stack-web-hosting-2026"></a>
 ### 🌐 Pillar 1: The Complete Guide to Free Full-Stack Web Hosting (2026)
@@ -239,6 +248,26 @@ Building impressive projects is only half the battle. If nobody discovers your w
 * **Edit & Delete Traps:** Understanding the silent reach penalties of editing captions or reposting duplicate text.
 
 👉 **[Read the Full LinkedIn Global Virality Guide →](./linkedin_global_virality_guide.md)**
+
+---
+
+<a id="-pillar-6-the-complete-guide-to-wsl2-kali-linux--win-kex-gui"></a><a id="pillar-6-the-complete-guide-to-wsl2-kali-linux--win-kex-gui"></a>
+### 🐉 Pillar 6: The Complete Guide to WSL2, Kali Linux & Win-KeX GUI
+
+*File:* [`WSL2-Kali-Setup-Guide.md`](./WSL2-Kali-Setup-Guide.md)  
+*Audience:* Cybersecurity Students, Penetration Testers, Bug Bounty Hunters, Systems Engineers
+
+Running security distributions inside heavy virtual machines like VirtualBox or VMware often costs 20% to 35% of your host CPU and RAM, drains laptop battery, and introduces sluggish display lag. This playbook provides an end-to-end blueprint for running Kali Linux natively on Windows through WSL2 with bare-metal speed, vGPU/CUDA pass-through, PulseAudio sound, and interactive Win-KeX graphical desktop modes.
+
+#### Key Highlights & Blueprints
+* **Hardware & Feature Prerequisites:** CPU virtualization checks in BIOS/UEFI, NVIDIA Studio driver vGPU configuration, and one-liner DISM feature enablement.
+* **Win-KeX 3.0 Operational Modes:** Practical breakdowns of Window Mode (`kex --win -s`), Seamless Mode (`kex --sl -s`), and Enhanced Session Mode (`kex --esm -s`).
+* **The "Viewonly" Password Rule:** Why choosing `n` on the first-run VNC prompt is mandatory for interactive keyboard and mouse control.
+* **Socket & Crash Recovery (Error 10053):** A 6-command cleanup protocol for recovering from broken `/tmp/.X11-unix/` display sockets and stale TigerVNC processes.
+* **Debconf Package Prompts Decoded:** Clear technical rationales for how to answer installer prompts for Kismet (setuid root), Wireshark (non-superuser capture via dumpcap), sslh (standalone daemon), and macchanger (disabling randomization on virtual vNICs).
+* **WSL2 Memory Caps (.wslconfig):** Preventing resource exhaustion by configuring strict memory, processor, and swap envelopes in your host profile.
+
+👉 **[Read the Full WSL2 Kali Linux Setup Guide →](./WSL2-Kali-Setup-Guide.md)**
 
 ---
 
